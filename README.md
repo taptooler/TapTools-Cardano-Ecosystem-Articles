@@ -1,6 +1,6 @@
 # TapTools: Cardano Ecosystem Articles
 
-This repository contains links and metrics for the articles written as part of the TapTools milestones for Project Catalyst. Each milestone contains 30 high-quality articles, categorized by their content within the file itself.
+This repository contains links and metrics for the articles written as part of the TapTools milestones for Project Catalyst. Each milestone contains 30 high-quality articles, categorized by their content (Cardano Projects, Tokens/NFTs, Technological Advancements) within the file itself.
 
 ## Milestones Overview
 
@@ -47,5 +47,3 @@ This repository contains links and metrics for the articles written as part of t
 - Categories for each article are labeled within the `articles.md` file for clarity.
 
 ---
-
-
