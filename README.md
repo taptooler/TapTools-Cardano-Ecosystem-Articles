@@ -21,7 +21,7 @@ This repository contains links and metrics for the articles written as part of t
 ### Milestone 2: Launch of Second Article Series
 - **Objective**: Produce another set of 30 high-quality articles, selecting topics based on the evolving needs and interests of the Cardano community.
 - **Categories**:
-  - To be determined based on community needs.
+  - **To be determined based on community needs.**
 - **Acceptance Criteria**:
   - Fact-checked articles with a minimum of 300 words each.
   - In-depth analysis and insights on selected topics.
@@ -34,7 +34,7 @@ This repository contains links and metrics for the articles written as part of t
 ### Milestone 3: Launch of Third Article Series
 - **Objective**: Produce a third set of 30 high-quality articles, focusing on topics based on the evolving needs and interests of the Cardano community.
 - **Categories**:
-  - To be determined based on community feedback and ongoing developments.
+  - **To be determined based on community feedback and ongoing developments.**
 - **Acceptance Criteria**:
   - Each article must be fact-checked and a minimum of 300 words.
   - Articles must be engaging and provide in-depth insights into chosen topics.
@@ -46,7 +46,7 @@ This repository contains links and metrics for the articles written as part of t
 ### Milestone 4: Launch of Fourth Article Series
 - **Objective**: Complete an additional batch of 30 articles, focusing on timely and relevant subjects within the Cardano ecosystem.
 - **Categories**:
-  - To be based on ongoing developments and community feedback.
+  - **To be based on ongoing developments and community feedback.**
 - **Acceptance Criteria**:
   - Each article must meet accuracy, depth, and engagement standards.
   - Fact-checked and sourced from credible references.
