@@ -15,7 +15,7 @@ This repository contains links and metrics for the articles written as part of t
   - Well-written and engaging articles with accurate and in-depth analysis.
 - **Evidence of Completion**:
   - URLs for each published article with engagement metrics (views, shares, comments).
-  - Links to X (fka Twitter), Medium, or other platforms.
+  - Links to X, Medium, or other platforms.
   - This GitHub repository to store links to the articles.
 
 ### Milestone 2: Launch of Second Article Series
