@@ -6,7 +6,10 @@ This repository contains links and metrics for the articles written as part of t
 
 ### Milestone 1: Launch of Initial Article Series
 - **Objective**: Create and publish 30 high-quality articles focused on Cardano's projects, tokens, NFTs, and technological advancements.
-- **Categories** (labeled within the file):
+- **Categories** (grouped within separate files):
+1. [Cardano Projects](./cardano_projects.md)
+2. [Cardano Tokens/NFTs](./cardano_tokens_nfts.md)
+3. [Cardano Technological Advancements](./technological_advancements.md)
 - **Evidence of Completion**:
   - URLs for each published article with engagement metrics (views, shares, comments).
   - Links to X (fka Twitter), Medium, or other platforms.
