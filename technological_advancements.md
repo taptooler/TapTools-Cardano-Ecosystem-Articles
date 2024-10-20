@@ -6,7 +6,7 @@ EXAMPLE:
 - **Published date**: August 20, 2024
 - **Medium Metrics**: 100 views, 50 reads
 - **X Metrics**: 1800 views, 6 shares, 55 likes, 3 comments
-- **Category**: Cardano Technological Advancements
+- **Category**: Technological Advancements
 
 ---
 ## Article #14: Cardano at Dawn of Scaling Era
@@ -27,7 +27,7 @@ EXAMPLE:
 - **Published date**: August 23rd, 2024  
 - **Medium Metrics**: 54 views, 26 reads
 - **X Metrics**: 2,173 views, 21 shares, 52 likes, 4 comments  
-- **Category**: Cardano Insights
+- **Category**: Technological Advancements
 
 ## Article #2 : Cardano's Chang Upgrade is Close
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/cardanos-chang-upgrade-is-close-781ad3154e1e)
@@ -37,5 +37,14 @@ EXAMPLE:
 - **Published date**: August 13th, 2024  
 - **Medium Metrics**: 103 views, 60 reads
 - **X Metrics**: 4,641 views, 41 shares, 278 likes, 7 comments  
-- **Category**: General ecosystem news
+- **Category**: Technological Advancements
 
+## Article #20: Breaking Down the Midnight Nightpaper
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/breaking-down-the-midnight-nightpaper-2ddf8c9afdfb )
+[Read Article Here on X](https://x.com/TapTools/status/1840831227525226853 )
+
+- **Published on**: Medium, X
+- **Published date**: September 30th, 2024
+- **Medium Metrics**: 151 views, 93 reads
+- **X Metrics**: 5,520 views, 14 shares, 174 likes, 10 comments
+- **Category**: Technological Advancements
