@@ -48,3 +48,12 @@ EXAMPLE:
 - **X Metrics**: 1060 views, 2 shares, 20 likes, 1 comment
 - **Category**: Cardano ecosystem news
 
+## Article #16: Emurgo Partners with Investment Firm to Boost Cardano Ecosystem
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/emurgo-partners-with-investment-firm-to-boost-cardano-ecosystem-24b6de53912e)
+[Read Article Here on X]( https://x.com/TapTools/status/1834302323814006877)
+
+- **Published on**: Medium, X
+- **Published date**: September 12th, 2024
+- **Medium Metrics**: 51 views, 24 reads
+- **X Metrics**: 1,370 views, 8 shares, 31 likes, 6 comments
+- **Category**: Cardano ecosystem news
