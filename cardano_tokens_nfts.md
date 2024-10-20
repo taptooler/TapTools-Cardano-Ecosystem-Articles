@@ -49,4 +49,14 @@ EXAMPLE:
 - **X Metrics**: 2,884 views, 23 shares, 65 likes, 6 comments
 - **Category**: Token Spotlight
 
+## Article #12: Token Spotlight: STRIKE
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-strike-a0d172a286e0)
+[Read Article Here on X]( https://x.com/TapTools/status/1831445484503990331)
+
+- **Published on**: Medium, X
+- **Published date**: September 4th 2024
+- **Medium Metrics**: 65 views, 18 reads
+- **X Metrics**: 4,386 views, 47 shares, 187 likes, 7 comments
+- **Category**: Token Spotlight
+
 - **Category**: Token Spotlight
