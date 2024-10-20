@@ -60,3 +60,14 @@ EXAMPLE:
 - **Category**: Token Spotlight
 
 - **Category**: Token Spotlight
+
+- ## Article #15: Token Spotlight: rsERG
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-rserg-37c2457c8140)
+[Read Article Here on X]( https://x.com/TapTools/status/1833903760848060509)
+
+- **Published on**: Medium, X
+- **Published date**: September 11th, 2024
+- **Medium Metrics**: 125 views, 82 reads
+- **X Metrics**: 4,516 views, 56 shares, 140 likes, 8 comments
+- **Category**: Token Spotlight
+
