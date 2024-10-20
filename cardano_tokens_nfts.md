@@ -37,5 +37,16 @@ EXAMPLE:
 - **Published on**: Medium, X
 - **Published date**: August 20th, 2024  
 - **Medium Metrics**: 64 views, 36 reads
-- **X Metrics**: 4,728 views, 47 shares, 133 likes, 9 comments  
+- **X Metrics**: 4,728 views, 47 shares, 133 likes, 9 comments
+
+- ## Article #9: Token Spotlight: CLARITY
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-clarity-51539908d85d)
+[Read Article Here on X]( https://x.com/TapTools/status/1828856321682075830)
+
+- **Published on**: Medium, X
+- **Published date**: August 28rd, 2024  
+- **Medium Metrics**: 31 views, 12 reads
+- **X Metrics**: 2,884 views, 23 shares, 65 likes, 6 comments
+- **Category**: Token Spotlight
+
 - **Category**: Token Spotlight
