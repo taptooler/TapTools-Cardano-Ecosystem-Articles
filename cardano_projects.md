@@ -88,5 +88,24 @@ EXAMPLE:
 - **X Metrics**: 8,323 views, 51 shares, 272 likes, 9 comments
 - **Category**: Technological Advancements
 
+## Article #22: Binance to Sponsor Cardano Summit
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/binance-to-sponsor-cardano-summit-f1ccb23fd897   )
+[Read Article Here on X](https://x.com/TapTools/status/1841232622724530390  )
+
+- **Published on**: Medium, X
+- **Published date**: October 1st, 2024
+- **Medium Metrics**: 165 views, 104 reads
+- **X Metrics**: 10.8k views, 30 shares, 323 likes, 64 comments
+- **Category**: Cardano Projects
+
+## Article #23: SPO Spotlight: GNP1
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/spo-spotlight-gnp1-67838fcc57b1 )
+[Read Article Here on X](https://x.com/TapTools/status/1841939140805591068 )
+
+- **Published on**: Medium, X
+- **Published date**: October 3rd, 2024
+- **Medium Metrics**: 17 views, 7 reads
+- **X Metrics**: 1033 views, 2 shares, 12 likes, 1 comments
+- **Category**: Cardano Projects
 
 
