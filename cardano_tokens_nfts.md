@@ -71,3 +71,14 @@ EXAMPLE:
 - **X Metrics**: 4,516 views, 56 shares, 140 likes, 8 comments
 - **Category**: Token Spotlight
 
+- ## Article #24: Token Spotlight: rsRSN
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-rsrsn-e1f18809b21d  )
+[Read Article Here on X](https://x.com/TapTools/status/1842618289987698977  )
+
+- **Published on**: Medium, X
+- **Published date**: October 5rd, 2024
+- **Medium Metrics**: 58 views,32 reads
+- **X Metrics**: 6,419 views, 53 shares, 146 likes, 6 comments
+- **Category**: Tokens/ NFTs
+
+
