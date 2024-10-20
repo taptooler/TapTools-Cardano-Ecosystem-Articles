@@ -38,4 +38,13 @@ EXAMPLE:
 - **X Metrics**: 1,247 views, 3 shares, 14 likes, 4 comments
 - **Category**: SPO Spotlight
 
+## Article #13: Building on Cardano: Snek.fun
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-strike-a0d172a286e0)
+[Read Article Here on X]( https://x.com/TapTools/status/1832124420338684246)
+
+- **Published on**: Medium, X
+- **Published date**: September 6th 2024
+- **Medium Metrics**: 161 views, 87 reads
+- **X Metrics**: 1060 views, 2 shares, 20 likes, 1 comment
+- **Category**: Cardano ecosystem news
 
