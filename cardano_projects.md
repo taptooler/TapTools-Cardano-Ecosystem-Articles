@@ -78,6 +78,15 @@ EXAMPLE:
 - **X Metrics**: 2,500 views, 22 shares,110 likes, 5 comments
 - **Category**: Projects
 
+## Article #19: Tokenized Gold Coming to Cardano
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/tokenized-gold-coming-to-cardano-49ed4481b134)
+[Read Article Here on X](https://x.com/TapTools/status/1838299798933258512 )
+
+- **Published on**: Medium, X
+- **Published date**: September 23th, 2024
+- **Medium Metrics**: 151 views, 93 reads
+- **X Metrics**: 8,323 views, 51 shares, 272 likes, 9 comments
+- **Category**: Technological Advancements
 
 
 
