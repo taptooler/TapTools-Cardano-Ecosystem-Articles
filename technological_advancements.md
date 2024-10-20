@@ -38,3 +38,14 @@ EXAMPLE:
 - **Medium Metrics**: 103 views, 60 reads
 - **X Metrics**: 4,641 views, 41 shares, 278 likes, 7 comments  
 - **Category**: Technological Advancements
+
+- ## Article #25: First Legally Enforceable Contract on Cardano
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/first-legally-enforceable-contract-on-cardano-bc2b2078dfbc)
+[Read Article Here on X](https://x.com/TapTools/status/1844075359945490792)
+
+- **Published on**: Medium, X
+- **Published date**: October 9th, 2024
+- **Medium Metrics**: 134 views,61 reads
+- **X Metrics**: 3,415 views, 8 shares, 22 likes, 1 comments
+- **Category**: Technological Advancements
+
