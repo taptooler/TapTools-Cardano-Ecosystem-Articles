@@ -62,6 +62,12 @@ EXAMPLE:
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/spo-spotlight-akyo-5d3a07551a2f)
 [Read Article Here on X](https://x.com/TapTools/status/1834735929505845290) 
 
+- **Published on**: Medium, X
+- **Published date**: September 13th, 2024
+- **Medium Metrics**: 41 views, 17 reads
+- **X Metrics**: 1,699 views, 11 shares, 20 likes, 0 comments
+- **Category**: Projects
+
 ## Article #18: Orcfax V1 Goes Live on Cardano
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/orcfax-v1-goes-live-on-cardano-1ac1c2aa55af)
 [Read Article Here on X](https://x.com/TapTools/status/1834735929505845290)
@@ -73,9 +79,5 @@ EXAMPLE:
 - **Category**: Projects
 
 
-- **Published on**: Medium, X
-- **Published date**: September 13th, 2024
-- **Medium Metrics**: 41 views, 17 reads
-- **X Metrics**: 1,699 views, 11 shares, 20 likes, 0 comments
-- **Category**: Projects
+
 
