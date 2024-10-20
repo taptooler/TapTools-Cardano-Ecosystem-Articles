@@ -60,7 +60,18 @@ EXAMPLE:
 
 - ## Article #17: SPO Spotlight: AKYO
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/spo-spotlight-akyo-5d3a07551a2f)
+[Read Article Here on X](https://x.com/TapTools/status/1834735929505845290) 
+
+## Article #18: Orcfax V1 Goes Live on Cardano
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/orcfax-v1-goes-live-on-cardano-1ac1c2aa55af)
 [Read Article Here on X](https://x.com/TapTools/status/1834735929505845290)
+
+- **Published on**: Medium, X
+- **Published date**: September 16th, 2024
+- **Medium Metrics**: 57 views, 30 reads
+- **X Metrics**: 2,500 views, 22 shares,110 likes, 5 comments
+- **Category**: Projects
+
 
 - **Published on**: Medium, X
 - **Published date**: September 13th, 2024
