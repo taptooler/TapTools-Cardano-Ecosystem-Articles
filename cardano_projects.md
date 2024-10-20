@@ -57,3 +57,14 @@ EXAMPLE:
 - **Medium Metrics**: 51 views, 24 reads
 - **X Metrics**: 1,370 views, 8 shares, 31 likes, 6 comments
 - **Category**: Cardano ecosystem news
+
+- ## Article #17: SPO Spotlight: AKYO
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/spo-spotlight-akyo-5d3a07551a2f)
+[Read Article Here on X](https://x.com/TapTools/status/1834735929505845290)
+
+- **Published on**: Medium, X
+- **Published date**: September 13th, 2024
+- **Medium Metrics**: 41 views, 17 reads
+- **X Metrics**: 1,699 views, 11 shares, 20 likes, 0 comments
+- **Category**: Projects
+
