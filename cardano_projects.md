@@ -27,3 +27,15 @@ EXAMPLE:
 - **Medium Metrics**: 316 views, 225 reads
 - **X Metrics**: 10.2k views, 34 shares, 94 likes, 20 comments  
 - **Category**: General Cardano News
+
+- ## Article #11: SPO Spotlight: HEPHY: 
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/spo-spotlight-hephy-b270f0ea8577)
+[Read Article Here on X]( https://x.com/TapTools/status/1831097339282345985)
+
+- **Published on**: Medium, X
+- **Published date**: September 3rd, 2024
+- **Medium Metrics**: 15 views, 5 reads
+- **X Metrics**: 1,247 views, 3 shares, 14 likes, 4 comments
+- **Category**: SPO Spotlight
+
+
