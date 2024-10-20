@@ -109,7 +109,7 @@ EXAMPLE:
 - **Category**: Cardano Projects
 
 ## Article #25: Foreon Predictions Market Launches on Cardano Testnet
-[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-rsrsn-e1f18809b21d  )
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/foreon-predictions-market-launches-testnet-on-cardano-8f123adb1d91)
 [Read Article Here on X](https://x.com/TapTools/status/1843404433394389003  )
 
 - **Published on**: Medium, X
@@ -117,5 +117,7 @@ EXAMPLE:
 - **Medium Metrics**: 86 views,35 reads
 - **X Metrics**: 3,415 views, 8 shares, 22 likes, 1 comments
 - **Category**: Cardano Projects
+
+- 
 
 
