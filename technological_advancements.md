@@ -19,6 +19,16 @@ EXAMPLE:
 - **X Metrics**: 6,235 views, 54 shares, 337 likes, 7 comments
 - **Category**: Technological Advancements
 
+- ## Article #18: Orcfax V1 Goes Live on Cardano
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/orcfax-v1-goes-live-on-cardano-1ac1c2aa55af)
+[Read Article Here on X](https://x.com/TapTools/status/1834735929505845290)
+
+- **Published on**: Medium, X
+- **Published date**: September 16th, 2024
+- **Medium Metrics**: 57 views, 30 reads
+- **X Metrics**: 2,500 views, 22 shares,110 likes, 5 comments
+- **Category**: Projects
+
 ## Article #6 : Cardano’s Growth: A Comprehensive Analysis
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/cardanos-growth-a-comprehensive-analysis-1e5eab853690)
 [Read Article Here on X]( https://x.com/TapTools/status/1827058226594247107)
@@ -48,6 +58,7 @@ EXAMPLE:
 - **Medium Metrics**: 134 views,61 reads
 - **X Metrics**: 3,415 views, 8 shares, 22 likes, 1 comments
 - **Category**: Technological Advancements
+- 
 
 - ## Article #20: Breaking Down the Midnight Nightpaper
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/breaking-down-the-midnight-nightpaper-2ddf8c9afdfb )
@@ -58,3 +69,5 @@ EXAMPLE:
 - **Medium Metrics**: 287 views, 189 reads
 - **X Metrics**: 5,520 views, 14 shares, 174 likes, 10 comments
 - **Category**: Technological Advancements
+
+- 
