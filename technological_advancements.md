@@ -69,3 +69,12 @@ EXAMPLE:
 - **X Metrics**: 5,520 views, 14 shares, 174 likes, 10 comments
 - **Category**: Technological Advancements
 
+## Article #26: Emurgo Partners with Investment Firm to Boost Cardano Ecosystem
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/emurgo-partners-with-investment-firm-to-boost-cardano-ecosystem-24b6de53912e )
+[Read Article Here on X](https://x.com/TapTools/status/1834302323814006877 )
+
+- **Published on**: Medium, X
+- **Published date**: September 12th, 2024
+- **Medium Metrics**: 61 views, 27 reads
+- **X Metrics**: 1,378 views, 8 shares, 31 likes, 6 comments
+- **Category**: Technological Advancements
