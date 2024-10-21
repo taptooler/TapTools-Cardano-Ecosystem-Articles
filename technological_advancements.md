@@ -88,3 +88,14 @@ EXAMPLE:
 - **Medium Metrics**: 61 views, 27 reads
 - **X Metrics**: 1,378 views, 8 shares, 31 likes, 6 comments
 - **Category**: Technological Advancements
+
+- ## Article #29: Cardano Hydra Handles Millions of Transactions
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/doom-on-cardano-hydra-handles-millions-of-transactions-559b9a4bd4ab)
+[Read Article Here on X](https://x.com/TapTools/status/1825589204375458209 )
+
+- **Published on**: Medium, X
+- **Published date**: August 19th, 2024
+- **Medium Metrics**: 6,109 views, 253 reads
+- **X Metrics**: 2,023 views, 81 shares, 425 likes, 9 comments
+- **Category**: Technological Advancements
+
