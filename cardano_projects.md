@@ -119,7 +119,7 @@ EXAMPLE:
 - **X Metrics**: 1,839 views, 7 shares, 16 likes, 1 comments
 - **Category**: Cardano Projects
 
-## Article #29: Yamfore Protocol Launches on Cardano
+## Article #30: Yamfore Protocol Launches on Cardano
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/yamfore-protocol-launches-on-cardano-ce38ef46fdbf )
 [Read Article Here on X](https://x.com/TapTools/status/1846262477585371428)
 
