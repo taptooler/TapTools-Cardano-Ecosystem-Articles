@@ -78,3 +78,13 @@ EXAMPLE:
 - **Medium Metrics**: 61 views, 27 reads
 - **X Metrics**: 1,378 views, 8 shares, 31 likes, 6 comments
 - **Category**: Technological Advancements
+
+## Article #27: Cardano’s Chang Hardfork Set for September 1st 2024
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/cardanos-chang-hardfork-set-for-september-1st-2024-9c9eae6a9861)
+[Read Article Here on X](https://x.com/TapTools/status/1830004351835820159 )
+
+- **Published on**: Medium, X
+- **Published date**: August 31st, 2024
+- **Medium Metrics**: 61 views, 27 reads
+- **X Metrics**: 1,378 views, 8 shares, 31 likes, 6 comments
+- **Category**: Technological Advancements
