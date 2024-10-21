@@ -108,3 +108,14 @@ EXAMPLE:
 - **Medium Metrics**: 86 views,35 reads
 - **X Metrics**: 3,415 views, 8 shares, 22 likes, 1 comments
 - **Category**: Cardano Projects
+
+- ## Article #29: SPO Spotlight: RENEW
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/spo-spotlight-renew-ad397c5b85fc)
+[Read Article Here on X](https://x.com/TapTools/status/1847386367057387782)
+
+- **Published on**: Medium, X
+- **Published date**: October 18th, 2024
+- **Medium Metrics**: 21 views, 8 reads
+- **X Metrics**: 1,839 views, 7 shares, 16 likes, 1 comments
+- **Category**: Cardano Projects
+
