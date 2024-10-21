@@ -139,3 +139,12 @@ EXAMPLE:
 - **X Metrics**: 2,023 views, 10 shares, 20 likes, 2 comments
 - **Category**: Cardano Projects
 
+## Article #29: SPO Spotlight: ALPCH
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/spo-spotlight-alpch-908e14a08b36 )
+[Read Article Here on X](https://x.com/TapTools/status/1839424719168393660)
+
+- **Published on**: Medium, X
+- **Published date**: September 26th, 2024
+- **Medium Metrics**: 20 views, 4 reads
+- **X Metrics**: 2,023 views, 5 shares, 14 likes, 1 comment
+- **Category**: Cardano Projects
