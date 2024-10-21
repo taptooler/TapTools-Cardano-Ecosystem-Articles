@@ -128,3 +128,14 @@ EXAMPLE:
 - **Medium Metrics**: 93 views, 43 reads
 - **X Metrics**: 5,585 views, 15 shares, 127 likes, 11 comments
 - **Category**: Cardano Projects
+
+- ## Article #29: SPO Spotlight: HUAT
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/spo-spotlight-huat-dbfdeee96a76 )
+[Read Article Here on X](https://x.com/TapTools/status/1844763971095859553 )
+
+- **Published on**: Medium, X
+- **Published date**: October 11th, 2024
+- **Medium Metrics**: 20 views, 4 reads
+- **X Metrics**: 2,023 views, 10 shares, 20 likes, 2 comments
+- **Category**: Cardano Projects
+
