@@ -81,13 +81,14 @@ EXAMPLE:
 - **X Metrics**: 6,419 views, 53 shares, 146 likes, 6 comments
 - **Category**: Tokens/ NFTs
 
-## Article #27: Token Spotlight: TITAN
+## Article #28: Token Spotlight: TITAN
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-titan-431bb78e3f30 )
 [Read Article Here on X](https://x.com/TapTools/status/1846604521331441690 )
 
 - **Published on**: Medium, X
 - **Published date**: October 16th, 2024
-- **Medium Metrics**: 51 views, 32 reads
+- **Medium Metrics**: 53 views, 33 reads
 - **X Metrics**: 3,181 views, 61 shares, 131 likes, 37 comments
 - **Category**: Tokens/NFTs
+
 
