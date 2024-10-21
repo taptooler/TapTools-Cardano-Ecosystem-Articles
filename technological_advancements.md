@@ -58,7 +58,6 @@ EXAMPLE:
 - **Medium Metrics**: 134 views,61 reads
 - **X Metrics**: 3,415 views, 8 shares, 22 likes, 1 comments
 - **Category**: Technological Advancements
-- 
 
 - ## Article #20: Breaking Down the Midnight Nightpaper
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/breaking-down-the-midnight-nightpaper-2ddf8c9afdfb )
@@ -70,4 +69,3 @@ EXAMPLE:
 - **X Metrics**: 5,520 views, 14 shares, 174 likes, 10 comments
 - **Category**: Technological Advancements
 
-- 
