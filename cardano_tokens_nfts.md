@@ -10,7 +10,7 @@ EXAMPLE:
 
 ---
 
-## Article #1 : Token Spotlight: FLDT
+## Article #15 : Token Spotlight: FLDT
 [Read Article Here on Medium](https://medium.com/tap-in-with-taptools/token-spotlight-fldt-3718c67c485b)
 [Read Article Here on X](https://x.com/TapTools/status/1823001240998965714)
 
@@ -20,7 +20,7 @@ EXAMPLE:
 - **X Metrics**: 3,661 views, 28 shares, 165 likes, 12 comments  
 - **Category**: Tokens/ NFTs
 
-## Article #3 : Token Spotlight: USDM
+## Article #16 : Token Spotlight: USDM
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-usdm-71e00d66a35f)
 [Read Article Here on X]( https://x.com/TapTools/status/1824194963728634112)
 
@@ -30,7 +30,7 @@ EXAMPLE:
 - **X Metrics**: 2,740 views, 16 shares, 105 likes, 3 comments  
 - **Category**: Tokens/ NFTs
 
-## Article #5 : Token Spotlight: CBLP
+## Article #17 : Token Spotlight: CBLP
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-cblp-d08fc6cbda25)
 [Read Article Here on X]( https://x.com/TapTools/status/1826008182583603509)
 
@@ -40,7 +40,7 @@ EXAMPLE:
 - **X Metrics**: 4,728 views, 47 shares, 133 likes, 9 comments
 - **Category**: Tokens/ NFTs
 
-- ## Article #9: Token Spotlight: CLARITY
+- ## Article #18: Token Spotlight: CLARITY
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-clarity-51539908d85d)
 [Read Article Here on X]( https://x.com/TapTools/status/1828856321682075830)
 
@@ -50,7 +50,7 @@ EXAMPLE:
 - **X Metrics**: 2,884 views, 23 shares, 65 likes, 6 comments
 - **Category**: Tokens/ NFTs
 
-## Article #12: Token Spotlight: STRIKE
+## Article #19: Token Spotlight: STRIKE
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-strike-a0d172a286e0)
 [Read Article Here on X]( https://x.com/TapTools/status/1831445484503990331)
 
@@ -61,7 +61,7 @@ EXAMPLE:
 - **Category**: Token Spotlight
 - **Category**: Tokens/ NFTs
 
-- ## Article #15: Token Spotlight: rsERG
+- ## Article #20: Token Spotlight: rsERG
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-rserg-37c2457c8140)
 [Read Article Here on X]( https://x.com/TapTools/status/1833903760848060509)
 
@@ -71,7 +71,7 @@ EXAMPLE:
 - **X Metrics**: 4,516 views, 56 shares, 140 likes, 8 comments
 - **Category**: Tokens/ NFTs
 
-- ## Article #24: Token Spotlight: rsRSN
+- ## Article #21: Token Spotlight: rsRSN
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-rsrsn-e1f18809b21d  )
 [Read Article Here on X](https://x.com/TapTools/status/1842618289987698977  )
 
@@ -81,7 +81,7 @@ EXAMPLE:
 - **X Metrics**: 6,419 views, 53 shares, 146 likes, 6 comments
 - **Category**: Tokens/ NFTs
 
-## Article #28: Token Spotlight: TITAN
+## Article #22: Token Spotlight: TITAN
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-titan-431bb78e3f30 )
 [Read Article Here on X](https://x.com/TapTools/status/1846604521331441690 )
 
@@ -90,5 +90,4 @@ EXAMPLE:
 - **Medium Metrics**: 53 views, 33 reads
 - **X Metrics**: 3,181 views, 61 shares, 131 likes, 37 comments
 - **Category**: Tokens/NFTs
-
 
