@@ -1,14 +1,5 @@
 # Cardano Technological Advancements Articles
 
-EXAMPLE:
-## Article 1: [Cardano AI Platform Onboarding](https://medium.com/link-to-article)
-- **Published on**: Medium, X
-- **Published date**: August 20, 2024
-- **Medium Metrics**: 100 views, 50 reads
-- **X Metrics**: 1800 views, 6 shares, 55 likes, 3 comments
-- **Category**: Technological Advancements
-
----
 ## Article #23: Cardano at Dawn of Scaling Era
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/cardano-at-dawn-of-scaling-era-cbe825c45252)
 [Read Article Here on X]( https://x.com/TapTools/status/1833211015720218820)
