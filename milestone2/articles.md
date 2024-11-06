@@ -16,6 +16,16 @@
 
 - **Published on**: Medium, X
 - **Published date**: August 22nd, 2024  
-- **Medium Metrics**: 35 views, 17 reads
+- **Medium Metrics**: 77 views, 49 reads
 - **X Metrics**: 5,110 views, 58 shares, 148 likes, 20 comments  
 - **Category**: Tokens/NFTs
+
+## Article #2 : Charles Hoskinson and President Milei Meet at Tech Forum Argentina
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/charles-hoskinson-and-president-milei-meet-at-tech-forum-argentina-2024-30f75451c12c)
+[Read Article Here on X]( https://x.com/TapTools/status/1849196070288470121)
+
+- **Published on**: Medium, X
+- **Published date**: October 23rd, 2024  
+- **Medium Metrics**: 80 views, 38 reads
+- **X Metrics**: 5,219 views, 43 shares, 348 likes, 17 comments  
+- **Category**: General News
