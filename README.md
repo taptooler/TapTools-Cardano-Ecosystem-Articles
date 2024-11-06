@@ -37,7 +37,7 @@ This repository contains links and metrics for the articles written as part of t
 - **Evidence of Completion**:
   - URLs for each published article with engagement metrics.
   - Links to platforms like X and Medium.
-  - All articles for Milestone 4 are stored in `milestone4/articles.md`.
+  - All articles for Milestone 4 are stored in [`milestone4/articles.md`](./milestone4/articles.md).
 
 ## Contribution Guidelines
 - All articles are stored in Markdown format within a single file for each milestone.
