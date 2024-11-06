@@ -13,7 +13,6 @@ This repository contains links and metrics for the articles written as part of t
 - **Evidence of Completion**:
   - URLs for each published article with engagement metrics (views, shares, comments).
   - Links to X (fka Twitter), Medium, or other platforms.
-  - This GitHub repository stores all articles for Milestone 1 in `milestone1/articles.md`.
  
 ### Milestone 2: Launch of Second Article Series
 - **Objective**: Produce another set of 30 high-quality articles, selecting topics based on the evolving needs and interests of the Cardano community.
