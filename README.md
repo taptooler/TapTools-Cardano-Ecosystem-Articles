@@ -29,7 +29,7 @@ This repository contains links and metrics for the articles written as part of t
 - **Evidence of Completion**:
   - URLs for each published article with engagement metrics.
   - Links to X, Medium, or other platforms where articles are published.
-  - All articles for Milestone 3 are stored in `milestone3/articles.md`.
+  - All articles for Milestone 3 are stored in [`milestone3/articles.md`](./milestone3/articles.md).
 
 ### Milestone 4: Launch of Fourth Article Series
 - **Objective**: Complete an additional batch of 30 articles, focusing on timely and relevant subjects within the Cardano ecosystem.
