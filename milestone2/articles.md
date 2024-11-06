@@ -29,3 +29,14 @@
 - **Medium Metrics**: 80 views, 38 reads
 - **X Metrics**: 5,219 views, 43 shares, 348 likes, 17 comments  
 - **Category**: General News
+
+- ## Article #3: Cardano Summit 2024 Day 1
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/cardano-summit-2024-day-1-5769ab7a0112)
+[Read Article Here on X]( https://x.com/TapTools/status/1849888900895887758 )
+
+- **Published on**: Medium, X
+- **Published date**: October 25th, 2024  
+- **Medium Metrics**: 80 views, 38 reads
+- **X Metrics**: 1,245 views, 4 shares, 27 likes, 1 comments  
+- **Category**: General News
+
