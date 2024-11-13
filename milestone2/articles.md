@@ -129,3 +129,13 @@
 - **Medium Metrics**: 32 views, 12 reads
 - **X Metrics**: 2,892 views, 2 shares, 64 likes, 6 comments  
 - **Category**: Token / NFT
+
+## Article #14: Tappy02 by TapTools
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/tappy-02-by-taptools-8666e172d728)
+[Read Article Here on X]( https://x.com/TapTools/status/1828479234269991232)
+
+- **Published on**: Medium, X
+- **Published date**: August 27th, 2024  
+- **Medium Metrics**: 383 views, 257 reads
+- **X Metrics**: 10.2K views, 36 shares, 94 likes, 20 comments  
+- **Category**: General News
