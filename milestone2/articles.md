@@ -70,3 +70,22 @@
 - **X Metrics**: 4,267 views, 43 shares, 220 likes, 13 comments  
 - **Category**: Technological Advancements
 
+## Article #7: SPO Spotlight: VOLCY
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/spo-spotlight-volcy-72fd334635bc)
+[Read Article Here on X]( https://x.com/TapTools/status/1852465639832653829)
+
+- **Published on**: Medium, X
+- **Published date**: November 1st, 2024  
+- **Medium Metrics**: 22 views, 7 reads
+- **X Metrics**: 1,327 views, 7 shares, 18 likes, 1 comments  
+- **Category**: Cardano Projects
+
+## Article #8: Cardano Staking: A Comprehensive Guide
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/cardano-staking-a-comprehensive-guide-c20fd24eecaf)
+[Read Article Here on X]( https://x.com/TapTools/status/1853540220467401097)
+
+- **Published on**: Medium, X
+- **Published date**: November 4st, 2024  
+- **Medium Metrics**: 35 views, 16 reads
+- **X Metrics**: 2,961 views, 36 shares, 125 likes, 10 comments  
+- **Category**: Educational Cardano Guides
