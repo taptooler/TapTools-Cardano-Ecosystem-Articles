@@ -216,3 +216,10 @@
 - **X Metrics**: 783 views, 1 shares, 11 likes, 1 comments  
 - **Category**: General News
 
+## Article #25: TapTools: Wallet Health & Portfolio Risk Analyzer
+[Read Article Here on X]( https://x.com/TapTools/status/1852370626427691139  )
+- **Published on**: X
+- **Published date**: November 1st, 2024  
+- **X Metrics**: 1,012 views, 2 shares, 16 likes, 1 comments  
+- **Category**: General News
+
