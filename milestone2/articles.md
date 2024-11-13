@@ -109,3 +109,23 @@
 - **Medium Metrics**: 30 views, 9 reads
 - **X Metrics**: 1,487 views, 8 shares, 31 likes, 1 comments  
 - **Category**: General News
+
+## Article #12: Snek.Fun Launches on Cardano
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/snek-fun-launches-on-cardano-f8da047797cc)
+[Read Article Here on X]( https://x.com/TapTools/status/1831745358231191886)
+
+- **Published on**: Medium, X
+- **Published date**: September 5th, 2024  
+- **Medium Metrics**: 185 views, 97 reads
+- **X Metrics**: 12.3K views, 40 shares, 359 likes, 53 comments  
+- **Category**: General News
+
+## Article #13: Token Spotlight:CLARITY
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-clarity-51539908d85d)
+[Read Article Here on X]( https://x.com/TapTools/status/1828856321682075830)
+
+- **Published on**: Medium, X
+- **Published date**: August 28th, 2024  
+- **Medium Metrics**: 32 views, 12 reads
+- **X Metrics**: 2,892 views, 2 shares, 64 likes, 6 comments  
+- **Category**: Token / NFT
