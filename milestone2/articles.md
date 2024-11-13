@@ -89,3 +89,14 @@
 - **Medium Metrics**: 35 views, 16 reads
 - **X Metrics**: 2,961 views, 36 shares, 125 likes, 10 comments  
 - **Category**: Educational Cardano Guides
+
+- ## Article #: 9 - Cardano Staking: First Prediction Market on Cardano Launches
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/first-prediction-market-on-cardano-launches-3803c007c016   )
+[Read Article Here on X]( https://x.com/TapTools/status/1854184468036165810)
+
+- **Published on**: Medium, X
+- **Published date**: November 5th, 2024  
+- **Medium Metrics**: 82 views, 34 reads
+- **X Metrics**: 3,012 views, 16 shares, 72 likes, 2 comments  
+- **Category**: General News
+
