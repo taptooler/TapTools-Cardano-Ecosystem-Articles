@@ -100,3 +100,12 @@
 - **X Metrics**: 3,012 views, 16 shares, 72 likes, 2 comments  
 - **Category**: General News
 
+## Article #11: TapTools Free Features Highlight
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/taptools-free-features-highlight-acfc2734327d)
+[Read Article Here on X]( https://x.com/TapTools/status/1836862828973806043)
+
+- **Published on**: Medium, X
+- **Published date**: September 19th, 2024  
+- **Medium Metrics**: 30 views, 9 reads
+- **X Metrics**: 1,487 views, 8 shares, 31 likes, 1 comments  
+- **Category**: General News
