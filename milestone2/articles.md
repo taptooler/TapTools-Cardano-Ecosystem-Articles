@@ -149,3 +149,14 @@
 - **Medium Metrics**: 45 views, 20 reads
 - **X Metrics**: 4,310 views, 31 shares, 66 likes, 19 comments  
 - **Category**: Tokens/ NFTs
+
+- ## Article #16: Token Spotlight: RJV
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-rjv-ec288444d48b)
+[Read Article Here on X]( https://x.com/TapTools/status/1839009474268537125)
+
+- **Published on**: Medium, X
+- **Published date**: September 25th, 2024  
+- **Medium Metrics**: 22 views, 5 reads
+- **X Metrics**: 1,113 views, 4 shares, 18 likes, 1 comments  
+- **Category**: Tokens/ NFTs
+
