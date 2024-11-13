@@ -120,7 +120,7 @@
 - **X Metrics**: 12.3K views, 40 shares, 359 likes, 53 comments  
 - **Category**: General News
 
-## Article #13: Token Spotlight:CLARITY
+## Article #13: Token Spotlight: CLARITY
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-clarity-51539908d85d)
 [Read Article Here on X]( https://x.com/TapTools/status/1828856321682075830)
 
