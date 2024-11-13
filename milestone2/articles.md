@@ -201,3 +201,18 @@
 - **Published date**: October 27th, 2024  
 - **X Metrics**: 3,775 views, 33 shares, 170 likes, 3 comments  
 - **Category**: General News
+
+- ## Article #23: Unlocking Cardano’s Potential: Getting Data in Front of Millions
+[Read Article Here on X]( https://x.com/TapTools/status/1850933427077546341)
+- **Published on**: X
+- **Published date**: October 28th, 2024  
+- **X Metrics**: 8,261 views, 13 shares, 39 likes, 5 comments  
+- **Category**: General News
+
+## Article #24: Unlocking Cardano’s Potential: Wallet Insights for Token Trades
+[Read Article Here on X]( https://x.com/TapTools/status/1852033487466860703)
+- **Published on**: X
+- **Published date**: October 31st, 2024  
+- **X Metrics**: 783 views, 1 shares, 11 likes, 1 comments  
+- **Category**: General News
+
