@@ -40,3 +40,23 @@
 - **X Metrics**: 1,245 views, 4 shares, 27 likes, 1 comments  
 - **Category**: General News
 
+## Article #4: Cardano Summit 2024 Day 2
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/cardano-summit-2024-day-2-highlights-0926aae3f930)
+[Read Article Here on X]( https://x.com/TapTools/status/1850960220085793078)
+
+- **Published on**: Medium, X
+- **Published date**: October 28th, 2024  
+- **Medium Metrics**: 34 views, 15 reads
+- **X Metrics**: 2,752 views, 3 shares, 16 likes, 1 comments  
+- **Category**: General News
+
+## Article #5: Cardano the Ideal Blockchain for DePIN Solutions
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/cardano-the-ideal-blockchain-for-depin-solutions-6332a3cf2798)
+[Read Article Here on X]( https://x.com/TapTools/status/1851353311989117195)
+
+- **Published on**: Medium, X
+- **Published date**: October 29th, 2024  
+- **Medium Metrics**: 91 views, 54 reads
+- **X Metrics**: 8,385 views, 29 shares, 175 likes, 2 comments  
+- **Category**: General News
+
