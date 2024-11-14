@@ -50,7 +50,7 @@
 - **X Metrics**: 4,310 views, 31 shares, 66 likes, 19 comments  
 - **Category**: Cardano Projects
 
-- ## Article #6: Token Spotlight: RJV
+## Article #6: Token Spotlight: RJV
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-rjv-ec288444d48b)
 [Read Article Here on X]( https://x.com/TapTools/status/1839009474268537125)
 
@@ -77,7 +77,7 @@
 - **X Metrics**: 2.9K views, 15 shares, 87 likes, 1 comments  
 - **Category**: General News
 
-- ## Article #9: Cardano Summit 2024 Day 1
+## Article #9: Cardano Summit 2024 Day 1
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/cardano-summit-2024-day-1-5769ab7a0112)
 [Read Article Here on X]( https://x.com/TapTools/status/1849888900895887758 )
 
@@ -87,7 +87,7 @@
 - **X Metrics**: 1,245 views, 4 shares, 27 likes, 1 comments  
 - **Category**: General News
 
-- ## Article #10: Can Cardano Be the Ethereum Killer? Here’s Why It’s Possible
+## Article #10: Can Cardano Be the Ethereum Killer? Here’s Why It’s Possible
 [Read Article Here on X]( https://x.com/TapTools/status/1849857300867186705)
 - **Published on**: X
 - **Published date**: October 25th, 2024  
@@ -132,7 +132,7 @@
 - **X Metrics**: 2,752 views, 3 shares, 16 likes, 1 comments  
 - **Category**: General News
 
-- ## Article #16: Unlocking Cardano’s Potential: Getting Data in Front of Millions
+## Article #16: Unlocking Cardano’s Potential: Getting Data in Front of Millions
 [Read Article Here on X]( https://x.com/TapTools/status/1850933427077546341)
 - **Published on**: X
 - **Published date**: October 28th, 2024  
@@ -190,7 +190,7 @@
 - **X Metrics**: 13.4K views, 52 shares, 193 likes, 11 comments  
 - **Category**: Cardano Projects
 
-- ## Article #23: TapTools: Unlocking the Power of Cardano Stablecoins: The Stablecoin Dashboard
+## Article #23: TapTools: Unlocking the Power of Cardano Stablecoins: The Stablecoin Dashboard
 [Read Article Here on X]( https://x.com/TapTools/status/1853109908360860141)
 - **Published on**: X
 - **Published date**: November 3rd, 2024  
@@ -214,7 +214,7 @@
 - **X Metrics**: 2,961 views, 36 shares, 125 likes, 10 comments  
 - **Category**: Educational Cardano Guides
 
-- ## Article #26: - Cardano Staking: First Prediction Market on Cardano Launches
+## Article #26: - Cardano Staking: First Prediction Market on Cardano Launches
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/first-prediction-market-on-cardano-launches-3803c007c016   )
 [Read Article Here on X]( https://x.com/TapTools/status/1854184468036165810)
 
