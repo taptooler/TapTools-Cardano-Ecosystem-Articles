@@ -8,14 +8,14 @@
 - **Published date**: October 25th, 2024  
 - **Medium Metrics**: 80 views, 38 reads
 - **X Metrics**: 1,245 views, 4 shares, 27 likes, 1 comments  
-- **Category**: General Cardano News
+- **Category**: Cardano Projects
 
 ## Article #2: Can Cardano Be the Ethereum Killer? Here’s Why It’s Possible
 [Read Article Here on X]( https://x.com/TapTools/status/1849857300867186705)
 - **Published on**: X
 - **Published date**: October 25th, 2024  
 - **X Metrics**: 9,038 views, 72 shares, 376 likes, 16 comments  
-- **Category**: Cardano Projects
+- **Category**: Technological Advancements
 
 ## Article #3: Cardano + Bitcoin: A Powerhouse Combo for the Next Wave of Decentralized Finance
 [Read Article Here on X]( https://x.com/TapTools/status/1850216862501785977)
