@@ -15,7 +15,7 @@
 - **Published on**: X
 - **Published date**: October 25th, 2024  
 - **X Metrics**: 9,038 views, 72 shares, 376 likes, 16 comments  
-- **Category**: General News
+- **Category**: General Cardano News
 
 ## Article #3: Cardano + Bitcoin: A Powerhouse Combo for the Next Wave of Decentralized Finance
 [Read Article Here on X]( https://x.com/TapTools/status/1850216862501785977)
@@ -29,14 +29,14 @@
 - **Published on**: X
 - **Published date**: October 26th, 2024  
 - **X Metrics**: 2,151 views, 9 shares, 51 likes, 1 comments  
-- **Category**: General News
+- **Category**: Technological Advancements
 
 ## Article #5: 5 Ways Cardano is Positioned to Outperform in the Next Bull Market
 [Read Article Here on X]( https://x.com/TapTools/status/1850611017778401466)
 - **Published on**: X
 - **Published date**: October 27th, 2024  
 - **X Metrics**: 3,270 views, 12 shares, 90 likes, 3 comments  
-- **Category**: General News
+- **Category**: Technological Advancements
 
 ## Article #6: The Sleeping Giant in Crypto: Cardano’s Path to Global Adoption 
 [Read Article Here on X]( https://x.com/TapTools/status/1850657727032476026)
@@ -53,14 +53,14 @@
 - **Published date**: October 28th, 2024  
 - **Medium Metrics**: 34 views, 15 reads
 - **X Metrics**: 2,752 views, 3 shares, 16 likes, 1 comments  
-- **Category**: General News
+- **Category**: Cardano Projects
 
 ## Article #8: Unlocking Cardano’s Potential: Getting Data in Front of Millions
 [Read Article Here on X]( https://x.com/TapTools/status/1850933427077546341)
 - **Published on**: X
 - **Published date**: October 28th, 2024  
 - **X Metrics**: 8,261 views, 13 shares, 39 likes, 5 comments  
-- **Category**: General News
+- **Category**: Technological Advancements
 
 ## Article #9: Cardano the Ideal Blockchain for DePIN Solutions
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/cardano-the-ideal-blockchain-for-depin-solutions-6332a3cf2798)
@@ -70,14 +70,14 @@
 - **Published date**: October 29th, 2024  
 - **Medium Metrics**: 91 views, 54 reads
 - **X Metrics**: 8,385 views, 29 shares, 175 likes, 2 comments  
-- **Category**: General News
+- **Category**: Cardano Projects
 
 ## Article #10: Unlocking Cardano’s Potential: Wallet Insights for Token Trades
 [Read Article Here on X]( https://x.com/TapTools/status/1852033487466860703)
 - **Published on**: X
 - **Published date**: October 31st, 2024  
 - **X Metrics**: 783 views, 1 shares, 11 likes, 1 comments  
-- **Category**: General News
+- **Category**: Technological Advancements
 
 ## Article #11: Cardano's Solution to the Blockchain Quadrilemma
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/cardanos-solution-to-the-blockchain-quadrilemma-999337a4754b)
@@ -104,7 +104,7 @@
 - **Published on**: X
 - **Published date**: November 1st, 2024  
 - **X Metrics**: 1,012 views, 2 shares, 16 likes, 1 comments  
-- **Category**: General News
+- **Category**: Technological Advancements
 
 ## Article #14: TapTools: New to Cardano’s Thriving Ecosystem: Key Projects to Know
 [Read Article Here on X]( https://x.com/TapTools/status/1852748687904227529)
@@ -118,14 +118,14 @@
 - **Published on**: X
 - **Published date**: November 3rd, 2024  
 - **X Metrics**: 1,634 views, 12 shares, 33 likes, 0 comments  
-- **Category**: General News
+- **Category**: Technological Advancements
 
 ## Article #16: Is Cardano’s Ecosystem on the Verge of a Breakout? Key Indicators to Watch
 [Read Article Here on X]( https://x.com/TapTools/status/1853204018606285138)
 - **Published on**: X
 - **Published date**: November 3rd, 2024  
 - **X Metrics**: 5,894 views, 16 shares, 117 likes, 4 comments  
-- **Category**: General News
+- **Category**: General Cardano News
 
 ## Article #17: Cardano Staking: A Comprehensive Guide
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/cardano-staking-a-comprehensive-guide-c20fd24eecaf)
@@ -137,7 +137,7 @@
 - **X Metrics**: 2,961 views, 36 shares, 125 likes, 10 comments  
 - **Category**: Educational Cardano Guides
 
-## Article #18: - Cardano Staking: First Prediction Market on Cardano Launches
+## Article #18: First Prediction Market on Cardano Launches
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/first-prediction-market-on-cardano-launches-3803c007c016   )
 [Read Article Here on X]( https://x.com/TapTools/status/1854184468036165810)
 
@@ -145,21 +145,21 @@
 - **Published date**: November 5th, 2024  
 - **Medium Metrics**: 82 views, 34 reads
 - **X Metrics**: 3,012 views, 16 shares, 72 likes, 2 comments  
-- **Category**: General News
+- **Category**: Cardano Projects
 
 ## Article #19: Celebrating the People Behind Cardano’s Success
 [Read Article Here on X]( https://x.com/TapTools/status/1853812241671553033 )
 - **Published on**: X
 - **Published date**: November 5th, 2024  
 - **X Metrics**: 38K views, 98 shares, 316 likes, 68 comments  
-- **Category**: General News
+- **Category**: General Ecosystem News
 
 ## Article #20: Cardano Staking vs. Ethereum Staking: Why Cardano Comes Out on Top
 [Read Article Here on X]( https://x.com/TapTools/status/1854543069556973583)
 - **Published on**:  X
 - **Published date**: November 7th, 2024  
 - **X Metrics**: 1,438 views, 10 shares, 29 likes, 0 comments  
-- **Category**: General News
+- **Category**: Technological Advancements
 
 ## Article #21: SPO Spotlight: KIND
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/spo-spotlight-kind-ce229a00121b)
@@ -213,7 +213,7 @@
 - **Published on**: X
 - **Published date**: November 14th , 2024  
 - **X Metrics**: 1.7K views, 6 shares, 50 likes, 2 comments  
-- **Category**: General News
+- **Category**: General Cardano News
 
 ## Article #27: Liqwid Finance – Cardano’s Trailblazer in Decentralized Lending
 [Read Article Here on X]( https://x.com/TapTools/status/1857096903957065741)
