@@ -119,3 +119,83 @@
 - **Medium Metrics**: 48 views, 23 reads
 - **X Metrics**: 1,755 views, 12 shares, 40 likes, 1 comments  
 - **Category**: Cardano Projects
+
+## Article #13: TapTools Set to Fix Cardano Data Problem
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/taptools-set-to-fix-cardano-data-problem-8527d4421f54 )
+[Read Article Here on X]( https://x.com/TapTools/status/1858931124170617135 )
+
+- **Published on**: Medium, X
+- **Published date**: November 19th, 2024
+- **Medium Metrics**: 48 views, 23 reads
+- **X Metrics**: 1,755 views, 12 shares, 40 likes, 1 comments  
+- **Category**: Cardano Projects
+
+## Article #14: Token Spotlight: SUGAR
+[Read Article Here on Medium]( https://medium.com/@TapInWithTapTools/token-spotlight-sugar-be4589a4a10d )
+[Read Article Here on X]( https://x.com/TapTools/status/1859667547878195453 )
+
+- **Published on**: Medium, X
+- **Published date**: November 21st, 2024
+- **Medium Metrics**: 48 views, 23 reads
+- **X Metrics**: 1,755 views, 12 shares, 40 likes, 1 comments  
+- **Category**: Cardano Projects
+
+## Article #15: Introducing TapTools Free Wallet Insights
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/introducing-taptools-free-wallet-insights-9998899fee32 )
+[Read Article Here on X]( https://x.com/TapTools/status/1860037486627684572 )
+
+- **Published on**: Medium, X
+- **Published date**: November 22nd, 2024
+- **Medium Metrics**: 48 views, 23 reads
+- **X Metrics**: 1,755 views, 12 shares, 40 likes, 1 comments  
+- **Category**: Cardano Projects
+
+## Article #16: TapTools Stablecoin Dashboard
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/taptools-stablecoin-dashboard-dc123493b4ec )
+[Read Article Here on X](https://x.com/TapTools/status/1861157263689629844 )
+
+- **Published on**: Medium, X
+- **Published date**: November 25th, 2024
+- **Medium Metrics**: 48 views, 23 reads
+- **X Metrics**: 1,755 views, 12 shares, 40 likes, 1 comments  
+- **Category**: Cardano Projects
+
+## Article #17: Lending/Borrowing Dashboard
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/lending-borrowing-dashboard-202270572699 )
+[Read Article Here on X]( https://x.com/TapTools/status/1861499775427985692 )
+
+- **Published on**: Medium, X
+- **Published date**: November 26th, 2024
+- **Medium Metrics**: 48 views, 23 reads
+- **X Metrics**: 1,755 views, 12 shares, 40 likes, 1 comments  
+- **Category**: Cardano Projects
+
+## Article #18: Wallet Health & Portfolio Risk Analyzer
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/wallet-health-portfolio-risk-analyzer-748e80e64dce )
+[Read Article Here on X]( https://x.com/TapTools/status/1862275871605727519 )
+
+- **Published on**: Medium, X
+- **Published date**: November 27th, 2024
+- **Medium Metrics**: 48 views, 23 reads
+- **X Metrics**: 1,755 views, 12 shares, 40 likes, 1 comments  
+- **Category**: Cardano Projects
+
+## Article #19: Cardano ADA Included in Top 10 Crypto ETF
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/cardano-ada-included-in-top-10-crypto-etf-789c3a688622 )
+[Read Article Here on X]( https://x.com/TapTools/status/1863638462592938096 )
+
+- **Published on**: Medium, X
+- **Published date**: December 2nd, 2024
+- **Medium Metrics**: 48 views, 23 reads
+- **X Metrics**: 1,755 views, 12 shares, 40 likes, 1 comments  
+- **Category**: General News
+
+## Article 20: WingRiders DAO to Vote in Catalyst Fund 13
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/wingriders-dao-to-vote-in-catalyst-fund-13-016e91236798 )
+[Read Article Here on X]( https://x.com/TapTools/status/1864047952404373691 )
+
+- **Published on**: Medium, X
+- **Published date**: December 3rd, 2024
+- **Medium Metrics**: 48 views, 23 reads
+- **X Metrics**: 1,755 views, 12 shares, 40 likes, 1 comments  
+- **Category**: General News
