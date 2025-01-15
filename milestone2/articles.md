@@ -199,3 +199,43 @@
 - **Medium Metrics**: 48 views, 23 reads
 - **X Metrics**: 1,755 views, 12 shares, 40 likes, 1 comments  
 - **Category**: General News
+
+## Article 21: Cardano Constitutional Convention
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/cardano-constitutional-convention-bdc3d24b26ae )
+[Read Article Here on X]( https://x.com/TapTools/status/1864738128281636878 )
+
+- **Published on**: Medium, X
+- **Published date**: December 5th, 2024
+- **Medium Metrics**: 48 views, 23 reads
+- **X Metrics**: 1,755 views, 12 shares, 40 likes, 1 comments  
+- **Category**: General News
+
+## Article #22: Token Spotlight: CHAD
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-chad-e280a4cd64a8)
+[Read Article Here on X]( )
+
+- **Published on**: Medium, X
+- **Published date**: December 6th, 2024
+- **Medium Metrics**: 193 views, 84 reads
+- **X Metrics**: 6,035 views, 55 shares, 392 likes, 6 comments  
+- **Category**: Cardano Projects
+
+## Article #23: Cardano Constitution Signed in Argentina
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/cardano-constitution-signed-in-argentina-6584c4063686)
+[Read Article Here on X]( https://x.com/TapTools/status/1866209278001820156 )
+
+- **Published on**: Medium, X
+- **Published date**: December 9th, 2024
+- **Medium Metrics**: 193 views, 84 reads
+- **X Metrics**: 6,035 views, 55 shares, 392 likes, 6 comments  
+- **Category**: General News
+
+## Article #24: SPO Spotlight: SUI
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/spo-spotlight-sui-9998a9c88d11)
+[Read Article Here on X]( https://x.com/TapTools/status/1866584953896702405 )
+
+- **Published on**: Medium, X
+- **Published date**: December 10th, 2024
+- **Medium Metrics**: 193 views, 84 reads
+- **X Metrics**: 6,035 views, 55 shares, 392 likes, 6 comments  
+- **Category**: General News
