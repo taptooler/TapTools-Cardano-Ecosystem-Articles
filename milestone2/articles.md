@@ -238,4 +238,104 @@
 - **Published date**: December 10th, 2024
 - **Medium Metrics**: 193 views, 84 reads
 - **X Metrics**: 6,035 views, 55 shares, 392 likes, 6 comments  
+- **Category**: Cardano Projects
+
+## Article #25: Token Spotlight: BODEGA
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-bodega-148cad26cb80 )
+[Read Article Here on X]( https://x.com/TapTools/status/1867307836558258301 )
+
+- **Published on**: Medium, X
+- **Published date**: December 12th, 2024
+- **Medium Metrics**: 193 views, 84 reads
+- **X Metrics**: 6,035 views, 55 shares, 392 likes, 6 comments  
+- **Category**: Cardano Projects
+
+## Article #26: SPO Spotlight: 4KOMA
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/spo-spotlight-4koma-38b9e376f65b )
+[Read Article Here on X]( https://x.com/TapTools/status/1868741369692668093 )
+
+- **Published on**: Medium, X
+- **Published date**: December 16th, 2024
+- **Medium Metrics**: 193 views, 84 reads
+- **X Metrics**: 6,035 views, 55 shares, 392 likes, 6 comments  
+- **Category**: Cardano Projects
+
+## Article #27: SPO Spotlight: Cardano Developer Prevents Potential Multi-Million Dollar Hack
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/cardano-developer-prevents-potential-multi-million-dollar-hacks-e458a13e6431 )
+[Read Article Here on X]( https://x.com/TapTools/status/1869792994439950404 )
+
+- **Published on**: Medium, X
+- **Published date**: December 18th, 2024
+- **Medium Metrics**: 193 views, 84 reads
+- **X Metrics**: 6,035 views, 55 shares, 392 likes, 6 comments  
 - **Category**: General News
+
+## Article #28: Token Spotlight: XER
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-xer-0691da9d6874 )
+[Read Article Here on X]( https://x.com/TapTools/status/1869853024195358788 )
+
+- **Published on**: Medium, X
+- **Published date**: December 19th, 2024
+- **Medium Metrics**: 193 views, 84 reads
+- **X Metrics**: 6,035 views, 55 shares, 392 likes, 6 comments  
+- **Category**: General News
+
+## Article #29: Token Spotlight: SHARL
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-sharl-84966ec5242c )
+[Read Article Here on X]( https://x.com/TapTools/status/1870209199524974902 )
+
+- **Published on**: Medium, X
+- **Published date**: December 20th, 2024
+- **Medium Metrics**: 193 views, 84 reads
+- **X Metrics**: 6,035 views, 55 shares, 392 likes, 6 comments  
+- **Category**: Cardano Projects
+
+## Article #30: SPO Spotlight: 1STEP
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/spo-spotlight-1step-936fb986bd2d )
+[Read Article Here on X]( https://x.com/TapTools/status/1871268736038207684 )
+
+- **Published on**: Medium, X
+- **Published date**: December 23rd, 2024
+- **Medium Metrics**: 193 views, 84 reads
+- **X Metrics**: 6,035 views, 55 shares, 392 likes, 6 comments  
+- **Category**: Cardano Projects
+
+## Article #31: First Derivates Protocol on Cardano Goes Live
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/first-derivates-protocol-on-cardano-goes-live-342d97aad3f3 )
+[Read Article Here on X]( https://x.com/TapTools/status/1872762649580323305 )
+
+- **Published on**: Medium, X
+- **Published date**: December 27th, 2024
+- **Medium Metrics**: 193 views, 84 reads
+- **X Metrics**: 6,035 views, 55 shares, 392 likes, 6 comments  
+- **Category**: Cardano Projects
+
+## Article #32: Token Spotlight: TOKE
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-toke-c320c2f313b7 )
+[Read Article Here on X](  )
+
+- **Published on**: Medium, X
+- **Published date**: December 30th, 2024
+- **Medium Metrics**: 193 views, 84 reads
+- **X Metrics**: 6,035 views, 55 shares, 392 likes, 6 comments  
+- **Category**: Cardano Projects
+
+## Article #33: PayPal Stablecoin Bridged to Cardano
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/paypal-stablecoin-bridged-to-cardano-d71d4ffa0ae0 )
+[Read Article Here on X]( https://x.com/TapTools/status/1874872230330708098 )
+
+- **Published on**: Medium, X
+- **Published date**: January 2nd, 2025
+- **Medium Metrics**: 193 views, 84 reads
+- **X Metrics**: 6,035 views, 55 shares, 392 likes, 6 comments  
+- **Category**: General News
+
+## Article #34: SPO Spotlight: RADAR
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/spo-spotlight-radar-e51b70226986 )
+[Read Article Here on X]( https://x.com/TapTools/status/1875283000721903985 )
+
+- **Published on**: Medium, X
+- **Published date**: January 3rd, 2025
+- **Medium Metrics**: 193 views, 84 reads
+- **X Metrics**: 6,035 views, 55 shares, 392 likes, 6 comments  
+- **Category**: Cardano Projects
