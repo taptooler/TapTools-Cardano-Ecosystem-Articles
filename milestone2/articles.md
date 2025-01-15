@@ -106,7 +106,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: November 14th
-- **Medium Metrics**: 28 views, 8 reads
+- **Medium Metrics**: 30 views, 8 reads
 - **X Metrics**: 2,363 views, 7 shares, 30 likes,3 comments  
 - **Category**: Cardano Projects
 
@@ -116,7 +116,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: November 18th, 2024
-- **Medium Metrics**: 1765 views, 23 reads
+- **Medium Metrics**: 54 views, 26 reads
 - **X Metrics**: 1,755 views, 12 shares, 44 likes, 1 comments  
 - **Category**: Cardano Projects
 
@@ -126,7 +126,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: November 19th, 2024
-- **Medium Metrics**: 48 views, 23 reads
+- **Medium Metrics**: 34 views, 17 reads
 - **X Metrics**: 2,084 views, 10 shares, 75 likes, 2 comments  
 - **Category**: Cardano Projects
 
@@ -136,7 +136,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: November 21st, 2024
-- **Medium Metrics**: 48 views, 23 reads
+- **Medium Metrics**: 194 views, 121 reads
 - **X Metrics**: 9,264 views, 56 shares, 157 likes, 15 comments  
 - **Category**: Cardano Projects
 
@@ -146,7 +146,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: November 22nd, 2024
-- **Medium Metrics**: 48 views, 23 reads
+- **Medium Metrics**: 75 views, 30 reads
 - **X Metrics**: 1,985 views, 9 shares, 46 likes, 1 comments  
 - **Category**: Cardano Projects
 
@@ -156,7 +156,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: November 25th, 2024
-- **Medium Metrics**: 48 views, 23 reads
+- **Medium Metrics**: 94 views, 32 reads
 - **X Metrics**: 5,048 views, 30 shares, 214 likes, 8 comments  
 - **Category**: Cardano Projects
 
@@ -166,7 +166,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: November 26th, 2024
-- **Medium Metrics**: 48 views, 23 reads
+- **Medium Metrics**: 45 views, 16 reads
 - **X Metrics**: 5,052 views, 35 shares, 177 likes, 13 comments  
 - **Category**: Cardano Projects
 
@@ -176,7 +176,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: November 27th, 2024
-- **Medium Metrics**: 48 views, 23 reads
+- **Medium Metrics**: 64 views, 26 reads
 - **X Metrics**: 4,807 views, 26 shares, 174 likes, 4 comments  
 - **Category**: Cardano Projects
 
@@ -186,7 +186,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: December 2nd, 2024
-- **Medium Metrics**: 48 views, 23 reads
+- **Medium Metrics**: 311 views, 172 reads
 - **X Metrics**: 3,474 views, 20 shares, 158 likes, 6 comments  
 - **Category**: General News
 
@@ -196,7 +196,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: December 3rd, 2024
-- **Medium Metrics**: 48 views, 23 reads
+- **Medium Metrics**: 43 views, 19 reads
 - **X Metrics**: 2,941 views, 2 shares, 29 likes, 2 comments  
 - **Category**: General News
 
@@ -206,7 +206,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: December 5th, 2024
-- **Medium Metrics**: 48 views, 23 reads
+- **Medium Metrics**: 110 views, 47 reads
 - **X Metrics**: 2,727 views, 18 shares, 110 likes, 2 comments  
 - **Category**: General News
 
@@ -216,7 +216,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: December 6th, 2024
-- **Medium Metrics**: 193 views, 84 reads
+- **Medium Metrics**: 160 views, 102 reads
 - **X Metrics**: 8,535 views, 63 shares, 227 likes, 25 comments  
 - **Category**: Cardano Projects
 
@@ -226,7 +226,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: December 9th, 2024
-- **Medium Metrics**: 4,260 views, 84 reads
+- **Medium Metrics**: 80 views, 39 reads
 - **X Metrics**: 6,035 views, 28 shares, 157 likes, 5 comments  
 - **Category**: General News
 
@@ -236,7 +236,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: December 10th, 2024
-- **Medium Metrics**: 193 views, 84 reads
+- **Medium Metrics**: 48 views, 19 reads
 - **X Metrics**: 2,062 views, 9 shares, 29 likes, 2 comments  
 - **Category**: Cardano Projects
 
@@ -246,7 +246,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: December 12th, 2024
-- **Medium Metrics**: 193 views, 84 reads
+- **Medium Metrics**: 119 views, 74 reads
 - **X Metrics**: 6,075 views, 31 shares, 110 likes, 6 comments  
 - **Category**: Cardano Projects
 
@@ -256,7 +256,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: December 16th, 2024
-- **Medium Metrics**: 193 views, 84 reads
+- **Medium Metrics**: 17 views, 9 reads
 - **X Metrics**: 1,959 views, 6 shares, 34 likes, 1 comments  
 - **Category**: Cardano Projects
 
@@ -266,7 +266,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: December 18th, 2024
-- **Medium Metrics**: 193 views, 84 reads
+- **Medium Metrics**: 162 views, 107 reads
 - **X Metrics**: 10,300 views, 89 shares, 357 likes, 19 comments  
 - **Category**: General News
 
@@ -276,7 +276,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: December 19th, 2024
-- **Medium Metrics**: 193 views, 84 reads
+- **Medium Metrics**: 83 views, 46 reads
 - **X Metrics**: 3,766 views, 26 shares, 102 likes, 8 comments  
 - **Category**: General News
 
@@ -286,7 +286,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: December 20th, 2024
-- **Medium Metrics**: 193 views, 84 reads
+- **Medium Metrics**: 74 views, 43 reads
 - **X Metrics**: 6,965 views, 38 shares, 90 likes, 25 comments  
 - **Category**: Cardano Projects
 
@@ -296,7 +296,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: December 23rd, 2024
-- **Medium Metrics**: 193 views, 84 reads
+- **Medium Metrics**: 23 views, 26 reads
 - **X Metrics**: 1,522 views, 2 shares, 16 likes, 0 comments  
 - **Category**: Cardano Projects
 
@@ -306,18 +306,17 @@
 
 - **Published on**: Medium, X
 - **Published date**: December 27th, 2024
-- **Medium Metrics**: 193 views, 84 reads
+- **Medium Metrics**: 86 views, 41 reads
 - **X Metrics**: 4,118 views, 30 shares, 159 likes, 5 comments  
 - **Category**: Cardano Projects
 
 ## Article #32: Token Spotlight: TOKE
 [Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/token-spotlight-toke-c320c2f313b7 )
-[Read Article Here on X](  )
 
 - **Published on**: Medium, X
 - **Published date**: December 30th, 2024
-- **Medium Metrics**: 193 views, 84 reads
-- **X Metrics**: 0 views, 0 shares, 0 likes, 0 comments  
+- **Medium Metrics**: 57 views, 28 reads
+- **X Metrics**: (Removed) 0 views, 0 shares, 0 likes, 0 comments  
 - **Category**: Cardano Projects
 
 ## Article #33: PayPal Stablecoin Bridged to Cardano
@@ -326,7 +325,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: January 2nd, 2025
-- **Medium Metrics**: 193 views, 84 reads
+- **Medium Metrics**: 559 views, 304 reads
 - **X Metrics**: 33,800 views, 237 shares, 1,100 likes, 33 comments  
 - **Category**: General News
 
@@ -336,7 +335,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: January 3rd, 2025
-- **Medium Metrics**: 193 views, 84 reads
+- **Medium Metrics**: 34 views, 9 reads
 - **X Metrics**: 2,084 views, 9 shares, 35 likes, 2 comments  
 - **Category**: Cardano Projects
 
@@ -346,7 +345,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: January 7th, 2025
-- **Medium Metrics**: 193 views, 84 reads
+- **Medium Metrics**: 58 views, 34 reads
 - **X Metrics**: 4,235 views, 25 shares, 126 likes, 7 comments  
 - **Category**: General News
 
@@ -356,7 +355,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: January 8th, 2025
-- **Medium Metrics**: 193 views, 84 reads
+- **Medium Metrics**: 185 views, 100 reads
 - **X Metrics**: 18,000 views, 57 shares, 141 likes, 98 comments  
 - **Category**: General News
 
@@ -366,7 +365,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: January 9th, 2025
-- **Medium Metrics**: 193 views, 84 reads
+- **Medium Metrics**: 77 views, 60 reads
 - **X Metrics**: 2,032 views, 3 shares, 14 likes, 6 comments  
 - **Category**: Cardano Projects
 
@@ -376,7 +375,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: January 13th, 2025
-- **Medium Metrics**: 193 views, 84 reads
+- **Medium Metrics**: 13 views, 3 reads
 - **X Metrics**: 1,529 views, 1 share, 10 likes, 2 comments  
 - **Category**: Cardano Projects
 
@@ -386,6 +385,6 @@
 
 - **Published on**: Medium, X
 - **Published date**: January 14th, 2025
-- **Medium Metrics**: 193 views, 84 reads
+- **Medium Metrics**: 16 views, 8 reads
 - **X Metrics**: 2,945 views, 1 share, 13 likes, 0 comments  
 - **Category**: Cardano Projects
