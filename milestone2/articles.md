@@ -339,3 +339,53 @@
 - **Medium Metrics**: 193 views, 84 reads
 - **X Metrics**: 6,035 views, 55 shares, 392 likes, 6 comments  
 - **Category**: Cardano Projects
+
+## Article #35: Cardano Ecosystem on Verge of Parabolic Run?
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/cardano-ecosystem-on-verge-of-parabolic-run-7f77038ca0f9 )
+[Read Article Here on X]( https://x.com/TapTools/status/1876693059171504419 )
+
+- **Published on**: Medium, X
+- **Published date**: January 7th, 2025
+- **Medium Metrics**: 193 views, 84 reads
+- **X Metrics**: 6,035 views, 55 shares, 392 likes, 6 comments  
+- **Category**: General News
+
+## Article #36: Cardano Memecoins to Watch in 2025
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/cardano-memecoins-to-watch-in-2025-8268323117e5 )
+[Read Article Here on X]( https://x.com/TapTools/status/1877126246447870144 )
+
+- **Published on**: Medium, X
+- **Published date**: January 8th, 2025
+- **Medium Metrics**: 193 views, 84 reads
+- **X Metrics**: 6,035 views, 55 shares, 392 likes, 6 comments  
+- **Category**: General News
+
+## Article #37: Starting the Tappy02 Timer
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/starting-the-tappy02-timer-5b44e889371e )
+[Read Article Here on X]( https://x.com/TapTools/status/1877467382677123153 )
+
+- **Published on**: Medium, X
+- **Published date**: January 9th, 2025
+- **Medium Metrics**: 193 views, 84 reads
+- **X Metrics**: 6,035 views, 55 shares, 392 likes, 6 comments  
+- **Category**: Cardano Projects
+
+## Article #38: SPO Spotlight: CTEC
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/spo-spotlight-ctec-04caaf9489ba )
+[Read Article Here on X]( https://x.com/TapTools/status/1878892794703651110 )
+
+- **Published on**: Medium, X
+- **Published date**: January 13th, 2025
+- **Medium Metrics**: 193 views, 84 reads
+- **X Metrics**: 6,035 views, 55 shares, 392 likes, 6 comments  
+- **Category**: Cardano Projects
+
+## Article #39: TapTools Hackathon Registration Opens with 45K ADA Prize Pool
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/taptools-hackathon-registration-opens-with-45k-ada-prize-pool-27c03249e230 )
+[Read Article Here on X]( https://x.com/TapTools/status/1879279202786316762 )
+
+- **Published on**: Medium, X
+- **Published date**: January 14th, 2025
+- **Medium Metrics**: 193 views, 84 reads
+- **X Metrics**: 6,035 views, 55 shares, 392 likes, 6 comments  
+- **Category**: Cardano Projects
