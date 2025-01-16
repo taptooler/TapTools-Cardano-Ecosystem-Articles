@@ -17,10 +17,10 @@ This repository contains links and metrics for the articles written as part of t
 ### Milestone 2: Launch of Second Article Series
 - **Objective**: Produce another set of 30 high-quality articles, selecting topics based on the evolving needs and interests of the Cardano community.
 - **Categories** (labeled within the file):
-1. [Cardano Projects](./cardano_projects_milestone2.md)
-2. [Educational Cardano Guides](./educational_cardano_guides_milestone2.md)
-3. [Technological Advancements](./technological_advancements_milestone2.md)
-4. [General News](./general_news_milestone2.md)
+1. [Cardano Projects](./milestone2/cardano_projects_milestone2.md)
+2. [Educational Cardano Guides](./milestone2/educational_cardano_guides_milestone2.md)
+3. [Technological Advancements](./milestone2/technological_advancements_milestone2.md)
+4. [General News](./milestone2/general_news_milestone2.md)
 - **Evidence of Completion**:
   - URLs for each published article with engagement metrics (views, shares, comments).
   - Links to the platforms where the articles will be published.
