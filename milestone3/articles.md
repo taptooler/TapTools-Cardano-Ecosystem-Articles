@@ -90,4 +90,42 @@
 - **X Metrics**: 4,425 views, 10 shares, 86 likes, 52 comments  
 - **Category**: Cardano Projects
 
-  
+- ## Article #11: Fineqia FTSE Cardano Enhanced Yield ETN: A Major Leap for Cardano DeFi
+[Read Article Here on Medium]([https://medium.com/tap-in-with-taptools/top-3-cardano-wallets-2025-3edfde19f3f9](https://medium.com/tap-in-with-taptools/fineqia-ftse-cardano-enhanced-yield-etn-a-major-leap-for-ada-investment-356a0497ff6d)
+[Read Article Here on X](https://x.com/TapTools/status/1885403431315398865)
+
+- **Published on**: Medium, X
+- **Published date**: January 31st, 2025  
+- **Medium Metrics**: 105 views, 61 reads
+- **X Metrics**: 5,621 views, 66 shares, 151 likes, 16 comments  
+- **Category**: Cardano Projects
+
+- ## Article #12: BitcoinOS Set to Make Cardano Bitcoin’s DeFi Layer
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/bitcoinos-set-to-make-cardano-bitcoins-defi-layer-f537e1f8f6c9)
+[Read Article Here on X](https://x.com/TapTools/status/1886504416465080547)
+
+- **Published on**: Medium, X
+- **Published date**: February 3rd, 2025  
+- **Medium Metrics**: 406 views, 240 reads
+- **X Metrics**: 33,300 views, 138 shares, 694 likes, 34 comments  
+- **Category**: Technological Advancements
+
+- ## Article #13: SPO Spotlight: ARTZ
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/spo-spotlight-artz-4e6ebf2c1948)
+[Read Article Here on X](https://x.com/TapTools/status/1886904031592792139)
+
+- **Published on**: Medium, X
+- **Published date**: February 4th, 2025  
+- **Medium Metrics**: 13 views, 0 reads
+- **X Metrics**: 1,816 views, 3 shares, 15 likes, 7 comments  
+- **Category**: Cardano Projects
+
+## Article #14: Token Spotlight: Walmart x Cardano Cashback Program Announced
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/walmart-x-cardano-cashback-program-35ade8701a9b)
+[Read Article Here on X](https://x.com/TapTools/status/1879648334069268726)
+
+- **Published on**: Medium, X
+- **Published date**: January 15th, 2025  
+- **Medium Metrics**: 0 views, 0 reads
+- **X Metrics**: 0 views, 0 shares, 0 likes, 0 comments  
+- **Category**: General News
