@@ -15,7 +15,7 @@
 [Read Article Here on X](https://x.com/TapTools/status/1880323597677523372)
 
 - **Published on**: Medium, X
-- **Published date**: January 15th, 2025  
+- **Published date**: January 17th, 2025  
 - **Medium Metrics**: 165 views, 80 reads
 - **X Metrics**: 5,074 views, 38 shares, 204 likes, 11 comments  
 - **Category**: General News
@@ -49,3 +49,45 @@
 - **Medium Metrics**: 19 views, 7 reads
 - **X Metrics**: 8,840 views, 50 shares, 309 likes, 19 comments  
 - **Category**: Technological Advancements
+
+- ## Article #6: Token Spotlight: SPLASH
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/token-spotlight-splash-2baea2268f93)
+[Read Article Here on X](https://x.com/TapTools/status/1882497791358095385)
+
+- **Published on**: Medium, X
+- **Published date**: January 23rd, 2025  
+- **Medium Metrics**: 48 views, 26 reads
+- **X Metrics**: 2,425 views, 7 shares, 50 likes, 2 comments  
+- **Category**: Cardano Projects
+
+- ## Article #7: Cardano Memecoin Snek Lands First Tier 1 CEX Listing
+[Read Article Here on Medium]([https://medium.com/tap-in-with-taptools/token-spotlight-splash-2baea2268f93](https://medium.com/tap-in-with-taptools/cardano-memecoin-snek-lands-ecosystems-first-tier-1-listing-7b3f1ca91b54))
+[Read Article Here on X](https://x.com/TapTools/status/1882911896879419513)
+
+- **Published on**: Medium, X
+- **Published date**: January 24rd, 2025  
+- **Medium Metrics**: 270 views, 172 reads
+- **X Metrics**: 19,300 views, 107 shares, 671 likes, 153 comments  
+- **Category**: Cardano Projects
+  
+- ## Article #9: SPO Spotlight: GAIA
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/spo-spotlight-gaia-87c578699ee7)
+[Read Article Here on X](https://x.com/TapTools/status/1884352941529915609)
+
+- **Published on**: Medium, X
+- **Published date**: January 28th, 2025  
+- **Medium Metrics**: 36 views, 11 reads
+- **X Metrics**: 2,330 views, 4 shares, 23 likes, 8 comments  
+- **Category**: Cardano Projects
+
+- ## Article #10: Top 3 Cardano Wallets 2025
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/top-3-cardano-wallets-2025-3edfde19f3f9)
+[Read Article Here on X](https://x.com/TapTools/status/1885038539332870352)
+
+- **Published on**: Medium, X
+- **Published date**: January 30th, 2025  
+- **Medium Metrics**: 80 views, 36 reads
+- **X Metrics**: 4,425 views, 10 shares, 86 likes, 52 comments  
+- **Category**: Cardano Projects
+
+  
