@@ -289,3 +289,33 @@
 - **Medium Metrics**: 14 views, 7 reads
 - **X Metrics**: 4,348 views, 4 shares, 15 likes, 4 comments  
 - **Category**: Cardano Projects
+
+## Article #32: SPO Spotlight: FRCA
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/updated-cardano-constitution-ratified-7d3c2909a871)
+[Read Article Here on X](https://x.com/TapTools/status/1891970954990923794)
+
+- **Published on**: Medium, X
+- **Published date**: February 19th, 2025  
+- **Medium Metrics**: 43 views, 18 reads
+- **X Metrics**: 3,680 views, 33 shares, 207 likes, 2 comments  
+- **Category**: Cardano Projects
+
+## Article #32: NFT Spotlight: GGMC
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/nft-spotlight-ggmc-b6849b7a71de)
+[Read Article Here on X](https://x.com/TapTools/status/1892953133719916710)
+
+- **Published on**: Medium, X
+- **Published date**: February 20th, 2025  
+- **Medium Metrics**: 60 views, 31 reads
+- **X Metrics**: 2,646 views, 11 shares, 62 likes, 12 comments  
+- **Category**: Cardano Projects
+
+## Article #33: Enhance your Project on TapTools
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/enhance-your-project-on-taptools-1ae665e1f8b4)
+[Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
+
+- **Published on**: Medium, X
+- **Published date**: February 22nd, 2025  
+- **Medium Metrics**: 21 views, 9 reads
+- **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
+- **Category**: Cardano Projects
