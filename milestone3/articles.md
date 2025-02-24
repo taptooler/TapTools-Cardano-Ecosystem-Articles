@@ -249,3 +249,43 @@
 - **Medium Metrics**: 225 views, 118 reads
 - **X Metrics**: 9,435 views, 83 shares, 554 likes, 17 comments  
 - **Category**: General News
+
+## Article #28: Grayscale Files for Cardano ETF
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/greyscale-files-for-cardano-etf-e5da556dfc6c)
+[Read Article Here on X](https://x.com/TapTools/status/1889432019844653207)
+
+- **Published on**: Medium, X
+- **Published date**: February 11th, 2025  
+- **Medium Metrics**: 101 views, 45 reads
+- **X Metrics**: 9,498 views, 59 shares, 410 likes, 22 comments  
+- **Category**: General News
+
+## Article #29: SPO Spotlight: CBH
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/spo-spotlight-cbh-dbc1effaa62f)
+[Read Article Here on X](https://x.com/TapTools/status/1890124533794775352)
+
+- **Published on**: Medium, X
+- **Published date**: February 13th, 2025  
+- **Medium Metrics**: 25 views, 6 reads
+- **X Metrics**: 2,034 views, 3 shares, 22 likes, 2 comments  
+- **Category**: Cardano Projects
+
+## Article #30: Microsoft to Collaborate with Cardano
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/microsoft-to-collaborate-with-cardano-4dcb0fc4bd4c)
+[Read Article Here on X](https://x.com/TapTools/status/1890511274179428565)
+
+- **Published on**: Medium, X
+- **Published date**: February 14th, 2025  
+- **Medium Metrics**: 759 views, 423 reads
+- **X Metrics**: 20,300 views, 87 shares, 728 likes, 39 comments  
+- **Category**: General News
+
+## Article #31: SPO Spotlight: FRCA
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/spo-spotlight-frca-fa78f1c6c5e1)
+[Read Article Here on X](https://x.com/TapTools/status/1891533370787504258)
+
+- **Published on**: Medium, X
+- **Published date**: February 17th, 2025  
+- **Medium Metrics**: 14 views, 7 reads
+- **X Metrics**: 4,348 views, 4 shares, 15 likes, 4 comments  
+- **Category**: Cardano Projects
