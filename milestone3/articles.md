@@ -189,3 +189,63 @@
 - **Medium Metrics**: 222 views, 126 reads
 - **X Metrics**: 15,700 views, 84 shares, 575 likes, 66 comments  
 - **Category**: Technological Advancements
+
+## Article #21: Top 3 Cardano Wallets 2025
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/top-3-cardano-wallets-2025-3edfde19f3f9)
+[Read Article Here on X](https://x.com/TapTools/status/1885038539332870352)
+
+- **Published on**: Medium, X
+- **Published date**: January 30th, 2025  
+- **Medium Metrics**: 119 views, 57 reads
+- **X Metrics**: 4,447 views, 9 shares, 86 likes, 52 comments  
+- **Category**: General News
+
+## Article #23: Fineqia FTSE Cardano Enhanced Yield ETN: A Major Leap for Cardano DeFi
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/fineqia-ftse-cardano-enhanced-yield-etn-a-major-leap-for-ada-investment-356a0497ff6d)
+[Read Article Here on X](https://x.com/TapTools/status/1885403431315398865)
+
+- **Published on**: Medium, X
+- **Published date**: January 31st, 2025  
+- **Medium Metrics**: 127 views, 71 reads
+- **X Metrics**: 5,981 views, 54 shares, 152 likes, 16 comments  
+- **Category**: Cardano projects
+
+## Article #24: BitcoinOS Set to Make Cardano Bitcoin’s DeFi Layer
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/bitcoinos-set-to-make-cardano-bitcoins-defi-layer-f537e1f8f6c9)
+[Read Article Here on X](https://x.com/TapTools/status/1886504416465080547)
+
+- **Published on**: Medium, X
+- **Published date**: February 3rd, 2025  
+- **Medium Metrics**: 487 views, 277 reads
+- **X Metrics**: 33,700 views, 138 shares, 693 likes, 35 comments  
+- **Category**: General News
+
+## Article #25: Walmart x Cardano Cashback Program Announced
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/walmart-x-cardano-cashback-program-35ade8701a9b)
+[Read Article Here on X](https://x.com/TapTools/status/1887561521141608698)
+
+- **Published on**: Medium, X
+- **Published date**: February 6th, 2025  
+- **Medium Metrics**: 808 views, 498 reads
+- **X Metrics**: 34,100 views, 103 shares, 568 likes, 24 comments  
+- **Category**: General News
+
+## Article #26: Virtune Launches Cardano ETP on Helsinki NASDAQ Stock Exchange
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/virtune-launches-cardano-etp-on-helsinki-nasdaq-stock-exchange-1c0b03951743)
+[Read Article Here on X](https://x.com/TapTools/status/1887925495297359917)
+
+- **Published on**: Medium, X
+- **Published date**: February 7th, 2025  
+- **Medium Metrics**: 61 views, 16 reads
+- **X Metrics**: 6,742 views, 60 shares, 355 likes, 13 comments  
+- **Category**: General News
+
+## Article #27: Draper University x Cardano Builder Program
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/draper-university-x-cardano-builder-program-a516dce02b33)
+[Read Article Here on X](https://x.com/TapTools/status/1889065158309548413)
+
+- **Published on**: Medium, X
+- **Published date**: February 10th, 2025  
+- **Medium Metrics**: 225 views, 118 reads
+- **X Metrics**: 9,435 views, 83 shares, 554 likes, 17 comments  
+- **Category**: General News
