@@ -170,14 +170,14 @@
 - **X Metrics**: 4,348 views, 4 shares, 15 likes, 4 comments  
 - **Category**: Cardano Projects
 
-## Article #18: SPO Spotlight: FRCA
+## Article #18: Updated Cardano Constitution Ratified
 [Read Article Here on Medium](https://medium.com/tap-in-with-taptools/updated-cardano-constitution-ratified-7d3c2909a871)
 [Read Article Here on X](https://x.com/TapTools/status/1891970954990923794)
 
 - **Published on**: Medium, X
 - **Published date**: February 19th, 2025  
 - **Medium Metrics**: 43 views, 18 reads
-- **X Metrics**: 3,680 views, 33 shares, 207 likes, 2 comments  
+- **X Metrics**: 3,680 views, 34 shares, 208 likes, 2 comments  
 - **Category**: Cardano Projects
 
 ## Article #19: NFT Spotlight: GGMC
@@ -187,7 +187,7 @@
 - **Published on**: Medium, X
 - **Published date**: February 20th, 2025  
 - **Medium Metrics**: 60 views, 31 reads
-- **X Metrics**: 2,646 views, 11 shares, 62 likes, 12 comments  
+- **X Metrics**: 2,646 views, 11 shares, 61 likes, 12 comments  
 - **Category**: Cardano Projects
 
 ## Article #20: Enhance your Project on TapTools
@@ -197,20 +197,10 @@
 - **Published on**: Medium, X
 - **Published date**: February 22nd, 2025  
 - **Medium Metrics**: 21 views, 9 reads
-- **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
+- **X Metrics**: 3,744 views, 10 shares, 87 likes, 8 comments  
 - **Category**: Cardano Projects
 
-## Article #21: NFT Spotlight: GGMC
-[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/nft-spotlight-ggmc-b6849b7a71de)
-[Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
-
-- **Published on**: Medium, X
-- **Published date**: February 24th, 2025  
-- **Medium Metrics**: 72 views, 34 reads
-- **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
-- **Category**: Cardano Projects
-
-## Article #22: SPO Spotlight: HIVE
+## Article #21: SPO Spotlight: HIVE
 [Read Article Here on Medium](https://medium.com/tap-in-with-taptools/spo-spotlight-hive-5c77d9bd1d0d)
 [Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
 
@@ -220,7 +210,7 @@
 - **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
 - **Category**: Cardano Projects
 
-## Article #23: SEC Acknowledges Cardano ETF
+## Article #22: SEC Acknowledges Cardano ETF
 [Read Article Here on Medium](https://medium.com/tap-in-with-taptools/sec-acknowledges-cardano-etf-273dfe617ce4)
 [Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
 
@@ -230,7 +220,7 @@
 - **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
 - **Category**: General News
 
-## Article #24: Wanchain Bridges Cardano & XRP Ecosystems
+## Article #23: Wanchain Bridges Cardano & XRP Ecosystems
 [Read Article Here on Medium](https://medium.com/tap-in-with-taptools/wanchain-bridges-cardano-xrp-ecosystems-479ddaa6036c)
 [Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
 
@@ -240,7 +230,7 @@
 - **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
 - **Category**: Technological Advancements
 
-## Article #25: Butane Open-Sources Oracle
+## Article #24: Butane Open-Sources Oracle
 [Read Article Here on Medium](https://medium.com/tap-in-with-taptools/butane-open-sources-oracle-a05a1507ec6d)
 [Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
 
@@ -250,7 +240,7 @@
 - **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
 - **Category**: Technological Advancements
 
-## Article #26: ADA Included in US Crypto Strategic Reserve
+## Article #25: ADA Included in US Crypto Strategic Reserve
 [Read Article Here on Medium](https://medium.com/tap-in-with-taptools/ada-included-in-us-crypto-strategic-reserve-cc31f9947a04)
 [Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
 
@@ -260,7 +250,7 @@
 - **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
 - **Category**: General News
 
-## Article #27: Butane Synthetics Launches on Cardano
+## Article #26: Butane Synthetics Launches on Cardano
 [Read Article Here on Medium](https://medium.com/tap-in-with-taptools/butane-synthetics-launches-on-cardano-a43843a816ed)
 [Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
 
@@ -270,7 +260,7 @@
 - **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
 - **Category**: Cardano Projects
 
-## Article #28: SPO Spotlight: BEAVR
+## Article #27: SPO Spotlight: BEAVR
 [Read Article Here on Medium](https://medium.com/tap-in-with-taptools/spo-spotlight-beavr-1456d6e0b2c5)
 [Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
 
@@ -280,7 +270,7 @@
 - **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
 - **Category**: Cardano Projects
 
-## Article #29: USDA Stablecoin Launches on Cardano
+## Article #28: USDA Stablecoin Launches on Cardano
 [Read Article Here on Medium](https://medium.com/tap-in-with-taptools/usda-stablecoin-launches-on-cardano-73c25334195d)
 [Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
 
@@ -290,7 +280,7 @@
 - **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
 - **Category**: Technological Advancements
 
-## Article #30: Cardano Foundation Partners with Brazilian Government
+## Article #29: Cardano Foundation Partners with Brazilian Government
 [Read Article Here on Medium](https://medium.com/tap-in-with-taptools/cardano-foundation-partners-with-brazilian-governmentd-79cb484579e4)
 [Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
 
