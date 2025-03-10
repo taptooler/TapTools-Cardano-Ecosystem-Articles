@@ -199,3 +199,103 @@
 - **Medium Metrics**: 21 views, 9 reads
 - **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
 - **Category**: Cardano Projects
+
+## Article #21: NFT Spotlight: GGMC
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/nft-spotlight-ggmc-b6849b7a71de)
+[Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
+
+- **Published on**: Medium, X
+- **Published date**: February 24th, 2025  
+- **Medium Metrics**: 72 views, 34 reads
+- **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
+- **Category**: Cardano Projects
+
+## Article #22: SPO Spotlight: HIVE
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/spo-spotlight-hive-5c77d9bd1d0d)
+[Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
+
+- **Published on**: Medium, X
+- **Published date**: February 24th, 2025  
+- **Medium Metrics**: 20 views, 8 reads
+- **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
+- **Category**: Cardano Projects
+
+## Article #23: SEC Acknowledges Cardano ETF
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/sec-acknowledges-cardano-etf-273dfe617ce4)
+[Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
+
+- **Published on**: Medium, X
+- **Published date**: February 24th, 2025  
+- **Medium Metrics**: 79 views, 45 reads
+- **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
+- **Category**: General News
+
+## Article #24: Wanchain Bridges Cardano & XRP Ecosystems
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/wanchain-bridges-cardano-xrp-ecosystems-479ddaa6036c)
+[Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
+
+- **Published on**: Medium, X
+- **Published date**: February 26th, 2025  
+- **Medium Metrics**: 162 views, 76 reads
+- **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
+- **Category**: Technological Advancements
+
+## Article #25: Butane Open-Sources Oracle
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/butane-open-sources-oracle-a05a1507ec6d)
+[Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
+
+- **Published on**: Medium, X
+- **Published date**: February 28th, 2025  
+- **Medium Metrics**: 62 views, 37 reads
+- **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
+- **Category**: Technological Advancements
+
+## Article #26: ADA Included in US Crypto Strategic Reserve
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/ada-included-in-us-crypto-strategic-reserve-cc31f9947a04)
+[Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
+
+- **Published on**: Medium, X
+- **Published date**: March 3rd, 2025  
+- **Medium Metrics**: 111 views, 60 reads
+- **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
+- **Category**: General News
+
+## Article #27: Butane Synthetics Launches on Cardano
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/butane-synthetics-launches-on-cardano-a43843a816ed)
+[Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
+
+- **Published on**: Medium, X
+- **Published date**: March 4th, 2025  
+- **Medium Metrics**: 48 views, 26 reads
+- **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
+- **Category**: Cardano Projects
+
+## Article #28: SPO Spotlight: BEAVR
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/spo-spotlight-beavr-1456d6e0b2c5)
+[Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
+
+- **Published on**: Medium, X
+- **Published date**: March 5th, 2025  
+- **Medium Metrics**: 14 views, 2 reads
+- **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
+- **Category**: Cardano Projects
+
+## Article #29: USDA Stablecoin Launches on Cardano
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/usda-stablecoin-launches-on-cardano-73c25334195d)
+[Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
+
+- **Published on**: Medium, X
+- **Published date**: March 5th, 2025  
+- **Medium Metrics**: 45 views, 27 reads
+- **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
+- **Category**: Technological Advancements
+
+## Article #30: Cardano Foundation Partners with Brazilian Government
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/cardano-foundation-partners-with-brazilian-governmentd-79cb484579e4)
+[Read Article Here on X](https://x.com/TapTools/status/1893716597149155710)
+
+- **Published on**: Medium, X
+- **Published date**: March 7th, 2025  
+- **Medium Metrics**: 53 views, 23 reads
+- **X Metrics**: 3,647 views, 10 shares, 87 likes, 8 comments  
+- **Category**: General News
