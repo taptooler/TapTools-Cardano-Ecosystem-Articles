@@ -29,6 +29,9 @@ This repository contains links and metrics for the articles written as part of t
 ### Milestone 3: Launch of Third Article Series
 - **Objective**: Produce a third set of 30 high-quality articles, focusing on topics based on the evolving needs and interests of the Cardano community.
 - **Categories** (labeled within the file):
+1. [Cardano Projects](./milestone2/cardano_projects_milestone3.md)
+2. [Technological Advancements](./milestone2/technological_advancements_milestone3.md)
+3. [General News](./milestone2/general_news_milestone3.md)
 - **Evidence of Completion**:
   - URLs for each published article with engagement metrics.
   - Links to X, Medium, or other platforms where articles are published.
