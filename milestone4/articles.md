@@ -99,3 +99,33 @@
 - **Medium Metrics**: 20 views, 11 reads
 - **X Metrics**: 1,941 views, 3 shares, 26 likes, 9 comments  
 - **Category**: Cardano Projects
+
+## Article #11: Nubank Integrates ADA
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/nubank-integrates-ada-bde378014bfa)
+[Read Article Here on X](https://x.com/TapTools/status/1905306231478112290) 
+
+- **Published on**: Medium, X
+- **Published date**: March 27th, 2025  
+- **Medium Metrics**: 66 views, 24 reads
+- **X Metrics**: 5,384 views, 63 shares, 369 likes, 2 comments  
+- **Category**: Technological Advancements
+
+## Article #12: Iagon’s Staking Platform Goes Live
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/iagons-staking-platform-goes-live-eec7bccfcd3f)
+[Read Article Here on X](https://x.com/TapTools/status/1905713078131634452) 
+
+- **Published on**: Medium, X
+- **Published date**: March 28th, 2025  
+- **Medium Metrics**: 68 views, 42 reads
+- **X Metrics**: 6,570 views, 66 shares, 320 likes, 11 comments  
+- **Category**: Cardano Projects
+
+## Article #13: SPO Spotlight: SHARE
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/spo-spotlight-share-a1e85079c633)
+[Read Article Here on X](https://x.com/TapTools/status/1906796460844413055) 
+
+- **Published on**: Medium, X
+- **Published date**: March 31st, 2025  
+- **Medium Metrics**: 8 views, 2 reads
+- **X Metrics**: 1,757 views, 4 shares, 24 likes, 3 comments  
+- **Category**: Cardano Projects 
