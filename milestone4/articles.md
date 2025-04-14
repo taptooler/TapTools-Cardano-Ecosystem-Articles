@@ -129,3 +129,73 @@
 - **Medium Metrics**: 8 views, 2 reads
 - **X Metrics**: 1,757 views, 4 shares, 24 likes, 3 comments  
 - **Category**: Cardano Projects 
+
+## Article #14: Intersect MBO Supports Cardano Projects in 2025 Budget Push
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/intersect-mbo-supports-cardano-projects-in-2025-budget-push-3c941377b905)
+[Read Article Here on X](https://x.com/TapTools/status/1907167429035503646) 
+
+- **Published on**: Medium, X
+- **Published date**: April 1st, 2025  
+- **Medium Metrics**: 19 views, 7 reads
+- **X Metrics**: 1,914 views, 2 shares, 32 likes, 5 comments  
+- **Category**: General News
+
+## Article #15: SPO Spotlight: ZZZ
+[Read Article Here on Medium]( https://medium.com/tap-in-with-taptools/spo-spotlight-zzz-78d81b39d8b8)
+[Read Article Here on X](https://x.com/TapTools/status/1907536966121316513) 
+
+- **Published on**: Medium, X
+- **Published date**: April 2nd, 2025  
+- **Medium Metrics**: 16 views, 5 reads
+- **X Metrics**: 1,832 views, 2 shares, 13 likes, 5 comments  
+- **Category**: Cardano Projects
+
+## Article #16: Bodega Prediction Market V2 Goes Live on Cardano
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/bodega-prediction-market-v2-goes-live-on-cardano-bc9c3c89246e)
+[Read Article Here on X](https://x.com/TapTools/status/1908233713324089738) 
+
+- **Published on**: Medium, X
+- **Published date**: April 4th, 2025  
+- **Medium Metrics**: 21 views, 7 reads
+- **X Metrics**: 3,949 views, 32 shares, 174 likes, 18 comments  
+- **Category**: Cardano Projects
+
+## Article #17: Cardano’s Presence in Japan
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/cardanos-presence-in-japan-128c2fb836cb)
+[Read Article Here on X](https://x.com/TapTools/status/1909286303461785916) 
+
+- **Published on**: Medium, X
+- **Published date**: April 7th, 2025  
+- **Medium Metrics**: 45 views, 23 reads
+- **X Metrics**: 6,765 views, 71 shares, 401 likes, 19 comments  
+- **Category**: General News
+
+## Article #18: SPO Spotlight: ADRIA
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/spo-spotlight-adria-17b09319031f)
+[Read Article Here on X](https://x.com/TapTools/status/1909718194358829530) 
+
+- **Published on**: Medium, X
+- **Published date**: April 8th, 2025  
+- **Medium Metrics**: 14 views, 2 reads
+- **X Metrics**: 1,839 views, 2 shares, 17 likes, 11 comments  
+- **Category**: Cardano Projects
+
+## Article #19: Eternl Wallet V2 Launches on Cardano
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/eternl-wallet-v2-launches-on-cardano-52b0e316c4e3)
+[Read Article Here on X](https://x.com/TapTools/status/1909718194358829530) 
+
+- **Published on**: Medium, X
+- **Published date**: April 10th, 2025  
+- **Medium Metrics**: 97 views, 56 reads
+- **X Metrics**: 6,915 views, 55 shares, 270 likes, 39 comments  
+- **Category**: Cardano Projects
+
+## Article #20: dRep Spotlight: Big Pey
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/drep-spotlight-big-pey-232cc765220a)
+[Read Article Here on X](https://x.com/TapTools/status/1910731770879770949) 
+
+- **Published on**: Medium, X
+- **Published date**: April 11th, 2025  
+- **Medium Metrics**: 15 views, 5 reads
+- **X Metrics**: 1,874 views, 4 shares, 18 likes, 23 comments  
+- **Category**: General News
