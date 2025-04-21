@@ -196,6 +196,56 @@
 
 - **Published on**: Medium, X
 - **Published date**: April 11th, 2025  
-- **Medium Metrics**: 15 views, 5 reads
+- **Medium Metrics**: 19 views, 5 reads
 - **X Metrics**: 1,874 views, 4 shares, 18 likes, 23 comments  
+- **Category**: General News
+
+## Article #21: SPO Spotlight: EGGS
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/spo-spotlight-eggs-7fc560f3fcf2)
+[Read Article Here on X](https://x.com/TapTools/status/1911837909755498985) 
+
+- **Published on**: Medium, X
+- **Published date**: April 14th, 2025  
+- **Medium Metrics**: 10 views, 4 reads
+- **X Metrics**: 1,630 views, 2 shares, 12 likes, 13 comments  
+- **Category**: Cardano Projects
+
+## Article #22: Cardano Partner Chain Raises 1M In Seed Sale
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/cardano-partner-chain-raises-1m-in-seed-sale-4585e38b5393)
+[Read Article Here on X](https://x.com/TapTools/status/1912235099414048817) 
+
+- **Published on**: Medium, X
+- **Published date**: April 15th, 2025  
+- **Medium Metrics**: 135 views, 86 reads
+- **X Metrics**: 20,100 views, 93 shares, 435 likes, 46 comments  
+- **Category**: General News
+
+## Article #23: DREP Spotlight: YUTA
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/drep-spotlight-yuta-c6f963364885)
+[Read Article Here on X](https://x.com/TapTools/status/1912580656019747302) 
+
+- **Published on**: Medium, X
+- **Published date**: April 16th, 2025  
+- **Medium Metrics**: 6 views, 3 reads
+- **X Metrics**: 1,660 views, 1 shares, 18 likes, 18 comments  
+- **Category**: General News
+
+## Article #24: Cardano’s Upcoming Consensus Upgrades
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/cardanos-upcoming-consensus-upgrades-a1d0e9aabeb7)
+[Read Article Here on X](https://x.com/TapTools/status/1912962766765474151) 
+
+- **Published on**: Medium, X
+- **Published date**: April 17th, 2025  
+- **Medium Metrics**: 46 views, 29 reads
+- **X Metrics**: 3,500 views, 18 shares, 69 likes, 20 comments  
+- **Category**: Technological Advancements
+
+## Article #25: To the Amazon: Charles Hoskinson Takes on the Tucandeira
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/to-the-amazon-charles-hoskinson-takes-on-the-tucandeira-ec55f277588e)
+[Read Article Here on X](https://x.com/TapTools/status/1913320843347702266) 
+
+- **Published on**: Medium, X
+- **Published date**: April 18th, 2025  
+- **Medium Metrics**: 210 views, 160 reads
+- **X Metrics**: 8,456 views, 30 shares, 237 likes, 18 comments  
 - **Category**: General News
