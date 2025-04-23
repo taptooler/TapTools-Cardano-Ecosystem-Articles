@@ -249,3 +249,23 @@
 - **Medium Metrics**: 210 views, 160 reads
 - **X Metrics**: 8,456 views, 30 shares, 237 likes, 18 comments  
 - **Category**: General News
+
+## Article #26: SPO Spotlight: OSAKA
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/spo-spotlight-osaka-8b2932f2c19e)
+[Read Article Here on X](https://x.com/TapTools/status/1914398551393886226) 
+
+- **Published on**: Medium, X
+- **Published date**: April 21st, 2025  
+- **Medium Metrics**: 22 views, 9 reads
+- **X Metrics**: 2,612 views, 8 shares, 44 likes, 20 comments  
+- **Category**: Cardano Projects
+
+## Article #27: Lending Protocols on Cardano
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/lending-protocols-on-cardano-bd6a47fee93c)
+[Read Article Here on X](https://x.com/TapTools/status/1914777507615965392) 
+
+- **Published on**: Medium, X
+- **Published date**: April 22nd, 2025  
+- **Medium Metrics**: 55 views, 36 reads
+- **X Metrics**: 6,052 views, 33 shares, 147 likes, 23 comments  
+- **Category**: Cardano Projects
