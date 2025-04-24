@@ -6,7 +6,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: March 10th, 2025  
-- **Medium Metrics**: 26 views, 8 reads
+- **Medium Metrics**: 28 views, 8 reads
 - **X Metrics**: 2,331 views, 3 shares, 37 likes, 3 comments  
 - **Category**: Cardano Projects
 
@@ -26,7 +26,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: March 13th, 2025  
-- **Medium Metrics**: 54 views, 33 reads
+- **Medium Metrics**: 55 views, 33 reads
 - **X Metrics**: 4,366 views, 30 shares, 119 likes, 13 comments  
 - **Category**: Technological Advancements
 
@@ -36,7 +36,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: March 14th, 2025  
-- **Medium Metrics**: 45 views, 33 reads
+- **Medium Metrics**: 50 views, 35 reads
 - **X Metrics**: 10,000 views, 22 shares, 134likes, 8 comments  
 - **Category**: Cardano Projects
 
@@ -46,7 +46,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: March 17th, 2025  
-- **Medium Metrics**: 198 views, 64 reads
+- **Medium Metrics**: 208 views, 66 reads
 - **X Metrics**: 8,996 views, 72 shares, 639 likes, 12 comments  
 - **Category**: General News
 
@@ -56,7 +56,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: March 18th, 2025  
-- **Medium Metrics**: 36 views, 16 reads
+- **Medium Metrics**: 37 views, 16 reads
 - **X Metrics**: 3,232 views, 24 shares, 164 likes, 3 comments  
 - **Category**: Technological Advancements
 
@@ -66,7 +66,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: March 20th, 2025  
-- **Medium Metrics**: 17 views, 6 reads
+- **Medium Metrics**: 20 views, 6 reads
 - **X Metrics**: 1,964 views, 4 shares, 29 likes, 6 comments  
 - **Category**: Cardano Projects
 
@@ -76,7 +76,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: March 21st, 2025  
-- **Medium Metrics**: 405 views, 251 reads
+- **Medium Metrics**: 437 views, 271 reads
 - **X Metrics**: 6,644 views, 41 shares, 294 likes, 21 comments  
 - **Category**: Cardano Projects
 
@@ -86,7 +86,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: March 24th, 2025  
-- **Medium Metrics**: 203 views, 110 reads
+- **Medium Metrics**: 240 views, 130 reads
 - **X Metrics**: 5,673 views, 41 shares, 234 likes, 11 comments  
 - **Category**: Technological Advancements
 
@@ -96,7 +96,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: March 26th, 2025  
-- **Medium Metrics**: 20 views, 11 reads
+- **Medium Metrics**: 37 views, 20 reads
 - **X Metrics**: 1,941 views, 3 shares, 26 likes, 9 comments  
 - **Category**: Cardano Projects
 
@@ -196,7 +196,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: April 11th, 2025  
-- **Medium Metrics**: 19 views, 5 reads
+- **Medium Metrics**: 21 views, 6 reads
 - **X Metrics**: 1,938 views, 4 shares, 18 likes, 23 comments  
 - **Category**: General News
 
@@ -216,7 +216,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: April 15th, 2025  
-- **Medium Metrics**: 135 views, 86 reads
+- **Medium Metrics**: 143 views, 88 reads
 - **X Metrics**: 20,100 views, 93 shares, 435 likes, 46 comments  
 - **Category**: General News
 
@@ -226,7 +226,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: April 16th, 2025  
-- **Medium Metrics**: 6 views, 3 reads
+- **Medium Metrics**: 11 views, 3 reads
 - **X Metrics**: 1,660 views, 1 shares, 18 likes, 18 comments  
 - **Category**: General News
 
@@ -236,7 +236,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: April 17th, 2025  
-- **Medium Metrics**: 46 views, 29 reads
+- **Medium Metrics**: 52 views, 31 reads
 - **X Metrics**: 3,500 views, 18 shares, 69 likes, 20 comments  
 - **Category**: Technological Advancements
 
@@ -246,7 +246,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: April 18th, 2025  
-- **Medium Metrics**: 210 views, 160 reads
+- **Medium Metrics**: 210 views, 164 reads
 - **X Metrics**: 8,456 views, 30 shares, 237 likes, 18 comments  
 - **Category**: General News
 
@@ -256,7 +256,7 @@
 
 - **Published on**: Medium, X
 - **Published date**: April 21st, 2025  
-- **Medium Metrics**: 22 views, 9 reads
+- **Medium Metrics**: 25 views, 10 reads
 - **X Metrics**: 2,612 views, 8 shares, 44 likes, 20 comments  
 - **Category**: Cardano Projects
 
@@ -266,6 +266,16 @@
 
 - **Published on**: Medium, X
 - **Published date**: April 22nd, 2025  
-- **Medium Metrics**: 55 views, 36 reads
+- **Medium Metrics**: 111 views, 72 reads
 - **X Metrics**: 6,052 views, 33 shares, 147 likes, 23 comments  
+- **Category**: Cardano Projects
+
+## Article #28: Cardano’s First OTC Marketplace Goes Live
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/cardanos-first-otc-dex-goes-live-d380744c32e7)
+[Read Article Here on X](https://x.com/TapTools/status/1915154301418430717) 
+
+- **Published on**: Medium, X
+- **Published date**: April 23rd, 2025  
+- **Medium Metrics**: 68 views, 38 reads
+- **X Metrics**: 12,500 views, 87 shares, 280 likes, 43 comments  
 - **Category**: Cardano Projects
