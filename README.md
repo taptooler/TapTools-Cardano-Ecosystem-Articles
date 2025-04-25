@@ -40,9 +40,9 @@ This repository contains links and metrics for the articles written as part of t
 ### Milestone 4: Launch of Fourth Article Series
 - **Objective**: Complete an additional batch of 30 articles, focusing on timely and relevant subjects within the Cardano ecosystem.
 - **Categories** (labeled within the file):
-1. [Cardano Projects](./milestone3/cardano_projects_milestone4.md)
-2. [Technological Advancements](./milestone3/technological_advancements_milestone4.md)
-3. [General News](./milestone3/general_news_milestone4.md)
+1. [Cardano Projects](./milestone4/cardano_projects_milestone4.md)
+2. [Technological Advancements](./milestone4/technological_advancements_milestone4.md)
+3. [General News](./milestone4/general_news_milestone4.md)
 - **Evidence of Completion**:
   - URLs for each published article with engagement metrics.
   - Links to platforms like X and Medium.
