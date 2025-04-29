@@ -79,3 +79,13 @@
 - **Medium Metrics**: 210 views, 164 reads
 - **X Metrics**: 8,456 views, 30 shares, 237 likes, 18 comments  
 - **Category**: General News
+
+## Article #29: dRep Spotlight: Chris O
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/drep-spotlight-chris-o-97e9783a41b3)
+[Read Article Here on X](https://x.com/TapTools/status/1915154301418430717) 
+
+- **Published on**: Medium, X
+- **Published date**: April 24th, 2025  
+- **Medium Metrics**: 12 views, 4 reads
+- **X Metrics**: 4,485 views, 9 shares, 29 likes, 19 comments  
+- **Category**: General News
