@@ -149,3 +149,13 @@
 - **Medium Metrics**: 68 views, 38 reads
 - **X Metrics**: 12,500 views, 87 shares, 280 likes, 43 comments  
 - **Category**: Cardano Projects
+
+## Article #30: Begin Wallet Integrates Liqwid Finance
+[Read Article Here on Medium](https://medium.com/tap-in-with-taptools/begin-wallet-integrates-liqwid-finance-4c4eb8c15f65)
+[Read Article Here on X](https://x.com/TapTools/status/1915897537967624518) 
+
+- **Published on**: Medium, X
+- **Published date**: April 24th, 2025  
+- **Medium Metrics**: 12 views, 4 reads
+- **X Metrics**: 4,766 views, 24 shares, 92 likes, 23 comments  
+- **Category**: Cardano Projects
